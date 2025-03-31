@@ -9,6 +9,7 @@ En el CPD, los servidores operan con Windows Server, encargado de gestionar los 
 Es importante destacar que el sistema no almacena imágenes captadas por las cámaras , sino únicamente los datos derivados, como la matrícula, fecha, hora y localización. Esto garantiza que el CPD se enfoque en la gestión de datos y no en la vigilancia policial.
 
 ##Datos generales del proyecto
+
 **Ubicación del CPD:** Polígono industrial Benieto, Gandia.
 
 **¿Quién realizará las instalaciones?¿Nosotros o una empresa externa?** 
