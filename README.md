@@ -29,7 +29,7 @@ Finalmente, se implementarán respaldo diario fuera del sitio, mobiliario ergon�
 
 **1. Planta**
 
-***Distribución de espacios con sus respectivas funciones:***
+### Distribución de espacios con sus respectivas funciones:
 
 > Sala de servidores principal: Alojará el hardware crítico del CPD, como los servidores, los racks, switches, .
 
@@ -45,7 +45,7 @@ Finalmente, se implementarán respaldo diario fuera del sitio, mobiliario ergon�
 
 > Zonas de acceso restringido y seguridad.
 
-***Dimesiones (medidas)***
+### Dimensiones (medidas)
 
 > Sala de servidores: 50 m².
  
@@ -57,9 +57,9 @@ Finalmente, se implementarán respaldo diario fuera del sitio, mobiliario ergon�
 
 > Sala de energía y climatización: 20 m²
 
-***Mobiliario sugerido***
+### Mobiliario sugerido
 
-### Hardware
+***Hardware***
 
 > Servidores de alta capacidad con redundancia.
 
@@ -69,7 +69,7 @@ Finalmente, se implementarán respaldo diario fuera del sitio, mobiliario ergon�
 
 > UPS y generadores con autonomía de 12 horas mínimo.
 
-### Software
+***Software***
 
 > Sistema de gestión de bases de datos para registro de matrículas.
 
@@ -77,7 +77,7 @@ Finalmente, se implementarán respaldo diario fuera del sitio, mobiliario ergon�
 
 > Sistema de gestión de accesos y registros.
 
-### Otros Requisitos
+***Otros Requisitos***
 
 > Enlaces de red redundantes con alto ancho de banda.
 
