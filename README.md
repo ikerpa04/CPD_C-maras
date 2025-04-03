@@ -44,3 +44,19 @@ Finalmente, se implementarán respaldo diario fuera del sitio, mobiliario ergon�
 > Sala de energía y climatización: Ubicación de UPS, generadores y sistemas de aire acondicionado.
 
 > Zonas de acceso restringido y seguridad.
+
+***Dimesiones (medidas)***
+
+> Sala de servidores: 50 m².
+ 
+> Sala de comunicaciones: 25 m².
+
+> Sala de control: 40 m².
+
+> Espacio técnico: 30 m².
+
+> Sala de energía y climatización: 20 m²
+
+***Mobiliario sugerido***
+
+
