@@ -263,5 +263,7 @@ Estas zonas concentran alto tráfico, especialmente en horas punta.
 - Permiten **monitorear el flujo** de vehículos.  
 - Ayudan a **detectar congestión** y **supervisar accesos**.  
 
-**Conclusión:**  
 Las cámaras deben instalarse en **las entradas/salidas de todos los municipios sin excepción** para maximizar la seguridad y la eficiencia del tráfico.
+
+---
+
