@@ -59,4 +59,35 @@ Finalmente, se implementarán respaldo diario fuera del sitio, mobiliario ergon�
 
 ***Mobiliario sugerido***
 
+### Hardware
+
+> Servidores de alta capacidad con redundancia.
+
+> Almacenamiento escalable en red (NAS o SAN).
+
+> Switches y routers de última generación con soporte para VLAN.
+
+> UPS y generadores con autonomía de 12 horas mínimo.
+
+### Software
+
+> Sistema de gestión de bases de datos para registro de matrículas.
+
+> Plataforma centralizada de monitoreo.
+
+> Sistema de gestión de accesos y registros.
+
+### Otros Requisitos
+
+> Enlaces de red redundantes con alto ancho de banda.
+
+> Integración con cámaras de vigilancia municipales.
+
+> Seguridad física: Control de acceso biométrico y videovigilancia.
+
+> Sistema de respaldo diario con almacenamiento fuera del sitio.
+
+> Escritorios y sillas ergonómicas en sala de monitoreo.
+
+> Armarios para almacenamiento seguro de equipos.
 
