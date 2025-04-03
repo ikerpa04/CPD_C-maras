@@ -103,6 +103,7 @@ Se optó por usar **tarjetas SIM** en lugar de antenas **P2P**, debido a:
 
 📌 **Total de tarjetas SIM necesarias**: **478** (una por cada cámara).  
 
+---
 
 # Almacenamiento
 
