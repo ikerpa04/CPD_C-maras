@@ -83,7 +83,7 @@ El **Centro de Procesamiento de Datos (CPD)** está diseñado para garantizar **
 - **Espacio adicional** (PDUs, cableado, mantenimiento): **5U**.
 - **Espacio reservado** para crecimiento futuro: **20U**.
 
-📌 **Total espacio necesario**: **75U**.
+**Total espacio necesario**: **75U**.
 
 ### **3. Racks Necesarios**
 - Cada rack tiene **42U**, pero se recomienda usar **70-80%** por ventilación y cableado.
@@ -101,7 +101,7 @@ Se optó por usar **tarjetas SIM** en lugar de antenas **P2P**, debido a:
 - **Menos pérdidas de datos y mejor estabilidad** con la red de telefonía móvil.
 - **Menor coste y tiempo de instalación**.
 
-📌 **Total de tarjetas SIM necesarias**: **478** (una por cada cámara).  
+**Total de tarjetas SIM necesarias**: **478** (una por cada cámara).  
 
 ---
 
@@ -256,12 +256,12 @@ RAID 6 ofrece **redundancia adicional** y reduce el riesgo de fallos simultáneo
 # **Ubicación de las Cámaras de Control de Tráfico**
 
 ### **Entradas y salidas de la población**
-📍 **¿Por qué?**  
+**¿Por qué?**  
 Estas zonas concentran alto tráfico, especialmente en horas punta.
 
-✅ **Beneficios**  
+**Beneficios**  
 - Permiten **monitorear el flujo** de vehículos.  
 - Ayudan a **detectar congestión** y **supervisar accesos**.  
 
-📌 **Conclusión:**  
+**Conclusión:**  
 Las cámaras deben instalarse en **las entradas/salidas de todos los municipios sin excepción** para maximizar la seguridad y la eficiencia del tráfico.
