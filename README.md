@@ -344,3 +344,194 @@ Llamadas ilimitadas, establecimiento incluido y 100 Gb de datos al mes.
 **Por 5,90€/mes IVA incluído.**
 
 Puedes seleccionar qué empresa prefieres para tu cobertura, si **Orange con cobertura 5G con Gigas acumulables** o **Vodafone con solo cobertura 5G**. Nosotros elegimos con Orange ya que tienen una masa más amplia de cobertura.
+
+# Evaluación de riesgos
+
+## RIESGOS DE SEGURIDAD INFORMÁTICA
+
+En nuestro CPD, podemos encontrar diversos riesgos a nivel de seguridad informática, ya sean ciberataques, fugas de datos, etc. A continuación veremos que tipos de riesgos podemos encontrar para valorar el nivel de seguridad que necesitaremos llevar a cabo.
+
+### Ciberataques:
+
+- **Ataques DDOS:** Estos ataques sobrecargan los servidores y los dejan inoperativos por un tiempo indeterminado  
+- **Acceso no autorizado:** El acceso no autorizado aprovechando vulnerabilidades pueden hacernos perder muchos datos o fallos en el sistema.  
+- **Ransomware:** Un virus el cual los datos los encripta y nos pedirá un “rescate”, esto puede ser peligroso al poder robar datos personales de miles de ciudadanos.  
+- **Man in the middle:** Entran al CPD sin darnos cuenta e interceptan los datos que recibimos o enviamos, esto perjudica la seguridad e integridad de los datos.  
+
+### Fugas de datos:
+
+- **Robo de datos:** Al acceder un “hacker” al sistema pueden robar datos e información muy importante como pueden ser datos de los vehículos, ciudadanos, etc.  
+- **Dark web:** Los datos robados pueden ser vendidos o publicados en la Dark web, es decir el mercado negro  
+
+### Protección deficiente:
+
+- **Vulnerabilidades:** Podemos encontrar vulnerabilidades en el sistema debido a parches de seguridad deficiente o con fallos, también en la falta de actualizaciones del sistema.  
+- **Contraseñas vulnerables:** Debido a contraseñas vulnerables o por compartir la contraseña, pueden acceder quien no debe al sistema y producir fallos.  
+
+---
+
+## RIESGOS OPERATIVOS
+
+También podemos encontrar diferentes riesgos o problemas a nivel operativo, ya sea hardware o por terceras personas, a continuación veremos los siguientes riesgos.
+
+### Hardware:
+
+- **Hardware:** Podemos encontrar fallos en dispositivos hardware, ya sean los discos duros o sistemas de almacenamiento o servidores, causando pérdida de datos o interrupciones del funcionamiento correcto del CPD.
+
+### Energía:
+
+- **Energía:** Un riesgo posible muy importante es la energía, es decir, los cortes de luz o sobretensión. Esto puede afectar al correcto funcionamiento o inclusive se pueden quemar o dañar los dispositivos  
+
+### Humanos:
+
+- **Configuración:** Debido a errores de configuración pueden haber errores en los sistemas.  
+- **Eliminación datos:** Debido a errores humanos, pueden eliminar datos importantes o archivos de configuración.  
+- **Mala gestión:** Una mala gestión de las actualizaciones o de los mantenimientos necesarios puede provocar fallas en el CPD.  
+
+### Capacidad Insuficiente:
+
+- **Capacidad:** Debido al crecimiento de datos nuevos cada día, puede aumentar tanto la capacidad de almacenamiento que no permitirá añadir nuevos datos e inclusive producir fallos en el sistema.  
+
+---
+
+## RIESGOS DE PRIVACIDAD
+
+A continuación, veremos diferentes riesgos o incumplimientos sobre la protección de datos que debemos llevar a cabo para el correcto funcionamiento del CPD. Esta parte es muy importante por su delicadeza del tratamiento de datos.
+
+### Protección de datos:
+
+- **RGPD:** El incumplimiento del Reglamento General de Protección de Datos puede conllevar sanciones en cuanto al uso y almacenamiento de datos personales.  
+
+### Uso indebido de los datos:
+
+- **Datos:** Las grabaciones en sitios no autorizados o que apunten a sitios reservados pueden acarrear sanciones estipuladas por el reglamento.  
+
+### Anonimización:
+
+- **Anonimización:** Si los datos almacenados en el CPD no son anonimizados que podrían ser vinculados directamente a ciudadanos, puede aumentar el riesgo de abusos u otros problemas.  
+
+---
+
+## RIESGOS FÍSICOS
+
+Aquí veremos diferentes riesgos físicos que pueden afectar en la seguridad del CPD. Estos riesgos pueden acarrear diferentes problemas con difícil solución a corto plazo.
+
+### No autorizado:
+
+- **Intrusos:** Pueden acceder al CPD, personal no autorizado o intrusos que puedan robar o dañar los datos almacenados en el mismo.  
+- **Robo:** El robo de dispositivos físicos que contengan datos sensibles pueden acarrear problemas legales o del correcto funcionamiento del CPD.  
+
+### Desastres:
+
+- **Desastres:** Pueden ocurrir incendios o inundaciones que dañan los servidores o los sistemas de almacenamiento. También pueden ocurrir diferentes desastres naturales como terremotos.  
+
+### Vandalismo:
+
+- **Sabotaje:** Los intentos intencionados de dañar equipos o instalaciones del CPD pueden dañar el funcionamiento correcto del mismo.  
+
+---
+
+## RIESGOS TECNOLÓGICOS
+
+Existen también riesgos tecnológicos, estos son riesgos ya sea por obsolescencia de los equipos, incompatibilidad, etc. Esto puede producir gastos inconvenientes a corto plazo por no elegir correctamente el equipo necesario.
+
+### Obsolescencia:
+
+- **Obsolescencia:** El uso de hardware o software antiguo o sin actualizarse, pueden acarrear problemas. Al usar hardware antiguo puede ocasionar lentitud en la lectura o escritura de datos. También al usar software antiguo, pueden tener problemas de seguridad.  
+
+### Interoperabilidad:
+
+- **Compatibilidad:** La falta de compatibilidad de diferentes sistemas de cámaras, sistemas de almacenamiento, servidores, etc; pueden producir fallos en el CPD y no funcionar al máximo de rendimiento.  
+
+### Reconocimiento:
+
+- **Errores:** La tasa de errores en la detección de matrículas, generando errores en la información o información insuficiente.  
+
+---
+
+# Planes de contingencia
+
+## CONTINGENCIA PARA CIBERATAQUES
+
+### Prevención:
+
+- **Firewalls:** Al instalar firewalls actualizados y sistemas de prevención de intrusos prevenimos hackeos o virus que se metan al CPD.  
+- **Pruebas:** Deberemos realizar pruebas contra intrusos para verificar la fiabilidad del sistema instalado evitando hackeos.  
+- **Cifrar:** Cifrando los datos que entran y salen del CPD evitamos que alguien pueda acceder a ellos fácilmente.  
+
+### Respuesta:
+
+- **CSIRT:** Definiendo un equipo de respuesta ante incidentes para actuar rápidamente en caso de un ciberataque.  
+- **Aislamiento:** Aislando los sistemas afectados para contener ciberataques y evitar la propagación dañando el CPD completo.  
+- **Respaldo:** Activando un sistema de respaldo para mantener la operación y así no perder tiempo en el procesamiento de datos.  
+- **Restauración:** Teniendo copias de seguridad actualizadas y verificadas podemos restaurar datos en caso de pérdida.  
+- **Parches:** Aplicando parches a sistemas vulnerables y reforzando los controles de seguridad.  
+
+### Recuperación:
+
+- **Investigación:** Investigando el origen del ataque y reforzando los sistemas, podemos prevenir ataques similares.  
+- **Notificar:** En caso de fallo en la seguridad, hay que notificar a las autoridades pertinentes y a los ciudadanos afectados según las leyes de protección de datos.  
+
+---
+
+## CONTINGENCIA PARA FALLOS OPERATIVOS
+
+### Prevención:
+
+- **Redundancia:** Diseñando una infraestructura redundante para servidores, almacenamiento y energía para evitar pérdidas en el sistema.  
+- **Balanceadores:** Implementando “balanceadores” de carga para evitar que se saturen los sistemas y así evitar servicios tardíos.  
+- **Mantenimiento:** Realizando un mantenimiento adecuado periódicamente el hardware y el software que usamos, evitamos que se dañen en un momento inoportuno.  
+- **Actualizaciones:** Actualizando los sistemas y reemplazando los equipos obsoletos antes de que comiencen a fallar.  
+
+### Respuesta:
+
+- **Respaldo:** Activando sistemas de respaldo para cambiar automáticamente a servidores secundarios en caso de fallos para no perder tiempo.  
+- **Copias:** Usando copias de seguridad incrementales diarias evitando la pérdida de datos.  
+- **Monitoreo:** Implementando sistemas de monitoreo continuo que envíen alertas en tiempo real si surge algún problema en el CPD.  
+- **Diagnóstico:** Estableciendo procedimientos de diagnóstico podemos identificar rápidamente el fallo antes o durante que ocurra.  
+
+### Recuperación:
+
+- **Restauración:** En caso de restaurar, deberemos priorizar la recuperación de servicios esenciales como la comunicación con cámaras críticas e importantes.  
+- **Verificación:** Verificando la integridad de los datos restaurados verificamos que está todo correctamente y no hemos tenido pérdidas de datos.  
+
+---
+
+## CONTINGENCIA PARA DESASTRES FÍSICOS
+
+### Prevención:
+
+- **Protección:** Ubicando el CPD en una zona segura, lejos de inundaciones como localidades “altas” o evitando áreas sísmicas, evitamos que pueda tener algún desastre físico.  
+- **Incendios:** Contando con un sistema contra incendios podemos evitar un incendio o en caso de incendio evitar el máximo daño posible.  
+- **Respaldo:** Implementando replicaciones de datos en un CPD secundario ubicado en otra región puede ser caro pero en caso de “mal mayor” puede ayudarnos mucho.  
+- **Nube:** Usando servicios de almacenamiento como la nube como almacenamiento de respaldo podemos evitar pérdidas de datos.  
+
+### Respuesta:
+
+- **Reparar:** Reparando el CPD afectado y trasladando los datos y servicios desde el CPD secundario podemos evitar perder mucho tiempo en la restauración o reparación de nuestro CPD.  
+- **Respaldo:** Activando sistemas de respaldo en el CPD secundario para continuar las operaciones de reparación.  
+
+### Recuperación:
+
+- **Reparación:** Para reparar al completo el CPD, tendremos que trasladar los datos y servicios desde el CPD secundario.  
+- **Probar:** Probando los sistemas antes de restaurar el CPD principal evitaremos otra vez daños o pérdidas de tiempo de reparación.  
+
+---
+
+## CONTINGENCIA DE PRIVACIDAD
+
+### Prevención:
+
+- **Políticas:** Estableciendo políticas claras de privacidad y protección de datos, cumpliento con el RGPD y normativas locales, evitaremos problemas legales.  
+- **Anonimizar:** Hay que anonimizar todos los datos siempre que sean posibles porque podremos tener problemas legales con los ciudadanos o autoridades pertinentes.  
+- **Auditorías:** Tendremos que contratar auditorías externas para verificar constantemente el cumplimiento legal y técnico del CPD.  
+
+### Respuesta:
+
+- **Informar:** Deberemos informar a las autoridades y afectados sobre fugas de datos en un plazo de 72 horas, según el RGPD.  
+- **Análisis:** Debemos realizar un análisis de impacto para entender la magnitud del incidente.  
+
+### Recuperación:
+
+- **Políticas:** Deberemos ajustar las políticas y sistemas para evitar vulnerabilidades futuras.  
+- **Capacitación:** Deberemos capacitar nuevamente al personal en mejores prácticas de privacidad y seguridad.  
