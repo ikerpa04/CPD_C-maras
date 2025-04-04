@@ -12,7 +12,7 @@ Las cámaras estarán equipadas con una **tarjeta SIM** que permitirá su conexi
 
 En el CPD, los servidores operan con **Windows Server**, encargado de gestionar los datos y facilitar el acceso a la plataforma web. Desde cualquier comisaría policial de la comarca de La Safor, los agentes, mediante una **clave de acceso** proporcionada, podrán consultar el historial de circulación de un vehículo introduciendo su número de matrícula.
 
-> **Nota:** El sistema **no almacena imágenes captadas por las cámaras**, sino únicamente los **datos derivados**, garantizando que el CPD se enfoque en la gestión de datos y no en la vigilancia policial.
+> El sistema **no almacena imágenes captadas por las cámaras**, sino únicamente los **datos derivados**, garantizando que el CPD se enfoque en la gestión de datos y no en la vigilancia policial.
 
 ---
 
