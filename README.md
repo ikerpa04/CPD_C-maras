@@ -91,7 +91,37 @@ El **Centro de Procesamiento de Datos (CPD)** está diseñado para garantizar **
   - **Rack 1**: Servidores y switches principales.
   - **Rack 2**: Almacenamiento y equipos secundarios.
   - **Rack 3**: Redundancia y crecimiento futuro.
+---
+---
+## Selección final del Software
+ - **Sistema operativo: *Windows Server 2022 Datacenter para funcionalidades avanzadas de virtualización y gestión de redes.
 
+ - **Virtualización: ** Hyper-V integrado en Windows Server para optimizar los recursos de los servidores.
+
+ - **Monitorización: ** Software de vigilancia como Milestone XProtect o Avigilon Control Center para gestionar las 478 cámaras.
+
+ - **Bases de datos: ** Microsoft SQL Server para almacenar registros de acontecimientos y metadatos de las cámaras.
+
+ - **Seguridad: ** Microsoft Defender for Endpoint y soluciones de firewall como FortiGate para proteger la infraestructura.
+
+## Selección final del Hardware
+
+ - **Servidores: ** 3x Servidores Dell PowerEdge R750 con procesadores Intel Xeon Gold (mínimo 32 núcleos), 256 GB RAM cada uno.
+Tarjetas de red 10GbE por alta velocidad en transmisión de datos.
+
+ - **Almacenamiento: ** Cabina de discos NAS/SAN Dell EMC PowerVault ME5 con 1 TB de almacenamiento HDD.
+RAID 6 por redundancia y seguridad de datos.
+
+ - **Red: ** Switchs Cisco Catalyst 9500 con capacidad de 10/40GbE para garantizar un ancho de banda suficiente.
+
+Firewall Fortinet FortiGate 600E por seguridad perimetral.
+
+ - **Alimentación y Enfriamiento: ** Sistemas de alimentación ininterrumpida (UPS) APC Smart-UPS de 10 kVA para evitar cortes eléctricos.
+Sistemas de climatización de precisión para mantener la temperatura estable en el CPD.
+
+ - **Justificación de la Selección: ** Windows Server 2022 Datacenter permite gestionar eficientemente máquinas virtuales y servicios necesarios para la plataforma de videovigilancia.
+---
+---
 ---
 
 ## Tarjetas SIM
