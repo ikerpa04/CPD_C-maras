@@ -267,3 +267,80 @@ Las cámaras deben instalarse en **las entradas/salidas de todos los municipios 
 
 ---
 
+# Presupuesto del Material
+
+Para proporcionar una estimación actualizada de los costes de un sistema de Reconocimiento Automático de Matrícula (ALPR), se ha hecho una aproximación del mercado actual:
+
+1. **Servidores de procesamiento de imágenes (ALPR):** Para manejar eficientemente el procesamiento de imágenes, se requieren entre 5 y 10 servidores, dependiendo del volumen de datos. El coste de los servidores adecuados para esta tarea varían según las especificaciones, pero generalmente oscila entre 2.000 y 5.000 euros por unidad. Por lo tanto, la inversión total en servidores estaría entre 10.000 y 50.000 euros.
+
+2. **Almacenamiento en red (NAS/SAN):** Para garantizar redundancia y capacidad suficiente, se recomiendan de 2 a 4 unidades de almacenamiento en red. Los dispositivos NAS de calidad, tienen un precio aproximado de 460 euros.  
+Las soluciones SAN suelen ser más costosas debido a su rendimiento y escalabilidad superiores. El coste total para el almacenamiento en red puede variar entre 1.000 y 10.000 euros, dependiendo de la capacidad y tecnología seleccionada.
+
+3. **Equipos de red (switches, routers, firewalls):** Para asegurar una conectividad robusta y segura, se requieren entre 2 y 3 dispositivos de red. El coste de switches y routers de calidad empresarial suele oscilar entre 500 y 1.500 euros por unidad, mientras que los firewalls pueden costar entre 1.000 y 3.000 euros. En total, la inversión en equipos de red estaría entre 2.000 y 9.000 euros.
+
+4. **Racks y accesorios:** Considerando que cada rack estándar tiene una capacidad de 42U y que se recomienda utilizar entre el 70% y 80% de su capacidad para una ventilación y cableado óptimos, se necesitan aproximadamente 3 racks para alojar todo el equipo, incluyendo espacio para crecimiento futuro. El coste de un rack estándar suele estar entre 800 y 1.500 euros. Además, es importante considerar accesorios como unidades de distribución de energía (PDUs) y sistemas de ventilación, que pueden sumar entre 500 y 1.000 euros adicionales por rack. En total, la inversión en racks y accesorios estaría entre 3.900 y 7.500 euros.
+
+## Resumen de costes estimados:
+
+- **Servidores de procesamiento de imágenes (ALPR):** 10.000 - 50.000 euros  
+- **Almacenamiento en red (NAS/SAN):** 1.000 - 10.000 euros  
+- **Equipos de red (switches, routers, firewalls):** 2.000 - 9.000 euros  
+- **Racks y accesorios:** 3.900 - 7.500 euros  
+- **Total estimado:** 16.900 - 76.500 euros
+
+---
+
+## Costes Aproximados de las cámaras:
+
+Para el coste aproximado de las cámaras, hemos realizado una tabla en la que realizamos un análisis de las poblaciones de la Safor, introducimos las cámaras que necesitamos y los precios de cada cámara. Esta tabla es una aproximación al coste real del proyecto. Estos datos pueden ser cambiados conforme avance el proyecto.
+
+**Clica aquí:**
+
+**Columnas de la tabla:**
+
+- **Municipios:** Nombres de los municipios a instalar  
+- **Cámaras:** Número de cámaras que hay en los municipios ya instaladas  
+- **Cámaras que queremos poner:** Número de cámaras que queremos tener en cada municipio  
+- **Incremento de Cámaras deseado:** Cámaras que hay que poner restando el número de cámaras ya existentes  
+- **Precio:** Precio total de las cámaras de cada municipio
+
+---
+
+## Costes de las tarjetas SIM:
+
+### Estudio sobre las distintas compañias de telefonia:
+
+#### ChipIOT
+
+ChipIOT proporciona tarjetas SIM multioperador y eSIM con cobertura global para dispositivos IoT y M2M. Ofrecen planes personalizados y destacan por tener precios hasta un 50% más económicos, para obtener una cotización específica para un plan de 100 GB.
+
+#### Things Mobile
+
+Things Mobile es un operador global dedicado a dispositivos IoT y M2M, con cobertura en más de 165 países y más de 350 operadores de roaming. Ofrecen tarifas flexibles según el consumo, sin costes iniciales ni suscripciones. Por ejemplo, tienen una tarifa de 0,10 $/MB en los principales países, lo que equivaldría a aproximadamente 10 $ por GB. Para un plan de 100 GB, esto representaría alrededor de 1.000 $.
+
+#### emnify
+
+emnify ofrece tarjetas SIM IoT con conectividad global y una plataforma de gestión avanzada. El precio de sus tarjetas SIM comienza desde menos de 2 € para una tarjeta SIM de grado comercial y menos de 3 € para una tarjeta SIM IoT de grado industrial, dependiendo del volumen del pedido.
+
+#### Movistar
+
+**Internet móvil y 5G+:**  
+Navega de forma ilimitada a 2 Mb una vez alcanzados los 20 GB a velocidad 5G+.
+
+**Llamadas y SMS:**  
+Llamadas ilimitadas a fijos y móviles. SMS a 30 cts.
+
+**Roaming: habla y navega fuera de España:**  
+25GB para navegar y llamadas ilimitadas en la UE, Reino Unido, Noruega, Islandia o Liechtenstein. Consulta las tarifas de Roaming de cualquier país.
+
+---
+
+## Nuestra elección:
+
+Basándonos en el estudio que hemos realizado, hemos pensado, que la mejor opción  es comprar las tarjetas SIM a **XENET**, ya que es una compañía de la Comunidad Valenciana que ofrece servicios de telecomunicaciones simples, con la máxima calidad posible y a un precio netamente inferior al de mercado.
+
+Tienen un plan de **Xenet-100**:  
+Llamadas ilimitadas, establecimiento incluido y 100 Gb de datos al mes.  
+**Por 5,90€/mes IVA incluído.**
+
+Puedes seleccionar qué empresa prefieres para tu cobertura, si **Orange con cobertura 5G con Gigas acumulables** o **Vodafone con solo cobertura 5G**. Nosotros elegimos con Orange ya que tienen una masa más amplia de cobertura.
