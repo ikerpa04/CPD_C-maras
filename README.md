@@ -42,6 +42,8 @@ El **Centro de Procesamiento de Datos (CPD)** está diseñado para garantizar **
   - **Respaldo diario fuera del sitio**
   - **Mobiliario ergonómico**
   - **Armarios de seguridad**
+ 
+---
 
 ### 1. Planta
 
@@ -120,7 +122,30 @@ Firewall Fortinet FortiGate 600E por seguridad perimetral.
 Sistemas de climatización de precisión para mantener la temperatura estable en el CPD.
 
  - **Justificación de la Selección:** Windows Server 2022 Datacenter permite gestionar eficientemente máquinas virtuales y servicios necesarios para la plataforma de videovigilancia.
+
 ---
+
+# Arquitectura del CPD
+
+## Infraestructura Física
+
+- **Ubicación:** El CPD se encuentra en una sala climatizada con control de acceso restringido.
+- **Sistema de Energía:** Se cuenta con alimentación redundante mediante UPS y un generador de respaldo.
+- **Control de Temperatura:** Se utilizan sistemas de climatización con redundancia para garantizar una temperatura óptima.
+- **Protección Contra Incendios:** Se ha instalado un sistema de detección y extinción automática de incendios.
+
+## Infraestructura de Red
+
+- **Topología:** Red segmentada en VLANs para separar los distintos servicios.
+- **Conectividad:** Se han implementado enlaces redundantes con balanceo de carga.
+- **Seguridad:** Firewalls perimetrales, IDS/IPS y segmentación de red para minimizar riesgos.
+
+## Servidores y Almacenamiento
+
+- **Servidores:** Se utilizan servidores físicos y virtualizados para optimizar el uso de recursos.
+- **Almacenamiento:** Se implementó un sistema de almacenamiento SAN con replicación y respaldo automático.
+- **Virtualización:** Uso de hipervisores para mejorar la eficiencia y gestión de los recursos.
+
 ---
 ---
 
