@@ -308,6 +308,42 @@ RAID 6 ofrece **redundancia adicional** y reduce el riesgo de fallos simultáneo
 
 ---
 
+# Manuales de Usuario y Guías de Administración
+
+## Manual de Usuario
+
+- **Acceso al sistema:** Instrucciones para iniciar sesión y utilizar los recursos del CPD.
+- **Gestión de datos:** Procedimientos para almacenamiento y recuperación de información.
+- **Resolución de problemas básicos:** Guía para identificar y solucionar incidencias comunes.
+
+## Guía de Administración
+
+- **Mantenimiento del CPD:** Procedimientos para actualización de hardware y software.
+- **Gestión de seguridad:** Configuración de accesos, auditorías y monitoreo.
+- **Recuperación ante fallos:** Planes de contingencia y restauración de servicios.
+
+# Procedimientos de Mantenimiento y Gestión de Recursos
+
+## Procedimientos de Mantenimiento
+
+- **Monitoreo del rendimiento:** Revisión periódica de logs y métricas de desempeño.
+- **Actualización de software y firmware:** Aplicación de parches de seguridad y mejoras.
+- **Limpieza y revisión de hardware:** Inspección física para prevenir fallos.
+
+## Gestión de Recursos
+
+- **Asignación de capacidad:** Distribución eficiente del almacenamiento y cómputo.
+- **Optimización de red:** Análisis de tráfico y ajustes para mejorar el rendimiento.
+- **Gestión de accesos:** Control de usuarios, permisos y autenticaciones.
+
+# Plan de Respuesta ante Incidentes
+
+- **Identificación de problemas:** Detección temprana de fallos en los sistemas.
+- **Procedimientos de escalado:** Contacto con equipos de soporte en casos críticos.
+- **Documentación y aprendizaje:** Registro de incidentes para mejorar procesos futuros.
+
+---
+
 # **Ubicación de las Cámaras de Control de Tráfico**
 
 ### **Entradas y salidas de la población**
@@ -590,3 +626,8 @@ Existen también riesgos tecnológicos, estos son riesgos ya sea por obsolescenc
 
 - **Políticas:** Deberemos ajustar las políticas y sistemas para evitar vulnerabilidades futuras.  
 - **Capacitación:** Deberemos capacitar nuevamente al personal en mejores prácticas de privacidad y seguridad.  
+
+---
+
+# Simulación del Proyecto
+
