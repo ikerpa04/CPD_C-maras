@@ -24,6 +24,7 @@ En el CPD, los servidores operan con **Windows Server**, encargado de gestionar 
   - No se contratarán empresas externas, reduciendo costes.
   - Se contará con **profesionales graduados en CFGS de Administración de Sistemas Informáticos y Redes**.
 
+![HOla](https://github.com/ikerpa04/CPD_Camaras/blob/14fcb5bdd96b5c63e3eafe9467a00ef7e4de87cd/Imagenes/Sprint2/Captura%20de%20pantalla%202025-04-03%20104024.png)
 ---
 
 ## Esquema Técnico
