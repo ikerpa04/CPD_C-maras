@@ -1678,28 +1678,35 @@ Virtualización: Uso de hipervisores para mejorar la eficiencia y gestión de lo
 ## Diagrama de los Racks
 
 En el diagrama de arriba podemos ver los 3 racks de los que dispondremos.
-!(https://github.com/ikerpa04/CPD_Camaras/blob/8461daebf9bd0dea8d0c15e42a01f41a66c17361/Imagenes/Sprint2/Captura%20de%20pantalla%202025-04-03%20104024.png)
+
+![11](https://github.com/ikerpa04/CPD_Camaras/blob/8461daebf9bd0dea8d0c15e42a01f41a66c17361/Imagenes/Sprint2/Captura%20de%20pantalla%202025-04-03%20104024.png)
+
 1. Los patch panels para la organización del cableado (3 en total)
-!(https://github.com/ikerpa04/CPD_Camaras/blob/8461daebf9bd0dea8d0c15e42a01f41a66c17361/Imagenes/Sprint2/Captura%20de%20pantalla%202025-04-03%20104114.png)
+
+![12](https://github.com/ikerpa04/CPD_Camaras/blob/8461daebf9bd0dea8d0c15e42a01f41a66c17361/Imagenes/Sprint2/Captura%20de%20pantalla%202025-04-03%20104114.png)
+
 2. Un switch por rack para la interconexión de dispositivos (3 en total)
-!(https://github.com/ikerpa04/CPD_Camaras/blob/8461daebf9bd0dea8d0c15e42a01f41a66c17361/Imagenes/Sprint2/Captura%20de%20pantalla%202025-04-03%20104135.png)
+![13](https://github.com/ikerpa04/CPD_Camaras/blob/8461daebf9bd0dea8d0c15e42a01f41a66c17361/Imagenes/Sprint2/Captura%20de%20pantalla%202025-04-03%20104135.png)
+
 3. Servidores donde llegan las imágenes de las cámaras y donde se procesan (
     donde llegan las imágenes y 2 donde se procesan y se extraen los datos (en este
     caso, solo están en uso 1 de cada, y los otros 2 son para respaldo en caso de caída
     del primer servidor))
-!(https://github.com/ikerpa04/CPD_Camaras/blob/8461daebf9bd0dea8d0c15e42a01f41a66c17361/Imagenes/Sprint2/Captura%20de%20pantalla%202025-04-03%20104213.png)
+![14](https://github.com/ikerpa04/CPD_Camaras/blob/8461daebf9bd0dea8d0c15e42a01f41a66c17361/Imagenes/Sprint2/Captura%20de%20pantalla%202025-04-03%20104213.png)
+
 4. Servidores NAS de almacenamiento (3 en total (en el primer rack se almacenan los
     datos, en el segundo se hace una copia de los datos del primer NAS y el otro para
     respaldo en caso de fallida en uno de los NAS anteriores))
-!(https://github.com/ikerpa04/CPD_Camaras/blob/8461daebf9bd0dea8d0c15e42a01f41a66c17361/Imagenes/Sprint2/Captura%20de%20pantalla%202025-04-03%20104226.png)
+![15](https://github.com/ikerpa04/CPD_Camaras/blob/8461daebf9bd0dea8d0c15e42a01f41a66c17361/Imagenes/Sprint2/Captura%20de%20pantalla%202025-04-03%20104226.png)
 
 5. Un router en el segundo rack, de donde saldrán las VLANs (La VLAN10 para los
     administradores, la VLAN20 que tendrán los servidores y la VLAN30 que tendrá el
     personal de seguridad)
-!(https://github.com/ikerpa04/CPD_Camaras/blob/8461daebf9bd0dea8d0c15e42a01f41a66c17361/Imagenes/Sprint2/Captura%20de%20pantalla%202025-04-03%20104247.png)
+![16](https://github.com/ikerpa04/CPD_Camaras/blob/8461daebf9bd0dea8d0c15e42a01f41a66c17361/Imagenes/Sprint2/Captura%20de%20pantalla%202025-04-03%20104247.png)
+
 6. UPS para en caso de caida de la red eléctrica, los servidores puedan seguir
     funcionando con un raspaldo energético de 12 horas mínimo
-!(https://github.com/ikerpa04/CPD_Camaras/blob/8461daebf9bd0dea8d0c15e42a01f41a66c17361/Imagenes/Sprint2/Captura%20de%20pantalla%202025-04-03%20104300.png)
+![17](https://github.com/ikerpa04/CPD_Camaras/blob/8461daebf9bd0dea8d0c15e42a01f41a66c17361/Imagenes/Sprint2/Captura%20de%20pantalla%202025-04-03%20104300.png)
 
 ### Configuraciones Implementadas
 
