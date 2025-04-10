@@ -1899,11 +1899,11 @@ Este es el resultado de la configuración realizada.
 
 El siguiente paso es ponerle una IP al router con su correspondiente máscara de red.
 
-!(https://github.com/ikerpa04/CPD_Camaras/blob/8461daebf9bd0dea8d0c15e42a01f41a66c17361/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20112605.png)
+![ggg](https://github.com/ikerpa04/CPD_Camaras/blob/8461daebf9bd0dea8d0c15e42a01f41a66c17361/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20112605.png)
 
 Y configurar el DHCP para que nos de ip al conectarnos de manera dinámica
 
-!(https://github.com/ikerpa04/CPD_Camaras/blob/8461daebf9bd0dea8d0c15e42a01f41a66c17361/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20112617.png)
+![HOlA](https://github.com/ikerpa04/CPD_Camaras/blob/8461daebf9bd0dea8d0c15e42a01f41a66c17361/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20112617.png)
 
 El escenario simulado es el siguiente:
 
