@@ -1875,39 +1875,39 @@ Francisco Sanchez Garcia
 
 ## Configuración del Router
 
-!(https://github.com/ikerpa04/CPD_Camaras/blob/8461daebf9bd0dea8d0c15e42a01f41a66c17361/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20112344.png)
+![1](https://github.com/ikerpa04/CPD_Camaras/blob/8461daebf9bd0dea8d0c15e42a01f41a66c17361/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20112344.png)
 
 Para realizar la configuración al router, nos conectaremos mediante un cable ethernet al
 ordenador/portatil y accederemos mediante el enlace “http://cudy.net” e introducimos el
 usuario y la contraseña iniciales que se encuentran en la parte inferior del router.
 Una vez hemos accedido, configuramos la hora local.
 
-!(https://github.com/ikerpa04/CPD_Camaras/blob/8461daebf9bd0dea8d0c15e42a01f41a66c17361/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20112416.png)
+![2](https://github.com/ikerpa04/CPD_Camaras/blob/8461daebf9bd0dea8d0c15e42a01f41a66c17361/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20112416.png)
 
 El siguiente paso es darle configuración rápida al punto de acceso que vamos a crear.
 
-!(https://github.com/ikerpa04/CPD_Camaras/blob/8461daebf9bd0dea8d0c15e42a01f41a66c17361/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20112436.png)
+![3](https://github.com/ikerpa04/CPD_Camaras/blob/8461daebf9bd0dea8d0c15e42a01f41a66c17361/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20112436.png)
 
 A continuación crearemos la red inalámbrica creando 2 tipos de red, cada una con un ancho
 de banda distinto.
 
-!(https://github.com/ikerpa04/CPD_Camaras/blob/8461daebf9bd0dea8d0c15e42a01f41a66c17361/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20112457.png)
+![4](https://github.com/ikerpa04/CPD_Camaras/blob/8461daebf9bd0dea8d0c15e42a01f41a66c17361/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20112457.png)
 
 Este es el resultado de la configuración realizada.
 
-!(https://github.com/ikerpa04/CPD_Camaras/blob/8461daebf9bd0dea8d0c15e42a01f41a66c17361/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20112524.png)
+![5](https://github.com/ikerpa04/CPD_Camaras/blob/8461daebf9bd0dea8d0c15e42a01f41a66c17361/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20112524.png)
 
 El siguiente paso es ponerle una IP al router con su correspondiente máscara de red.
 
-![ggg](https://github.com/ikerpa04/CPD_Camaras/blob/8461daebf9bd0dea8d0c15e42a01f41a66c17361/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20112605.png)
+![6](https://github.com/ikerpa04/CPD_Camaras/blob/8461daebf9bd0dea8d0c15e42a01f41a66c17361/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20112605.png)
 
 Y configurar el DHCP para que nos de ip al conectarnos de manera dinámica
 
-![HOlA](https://github.com/ikerpa04/CPD_Camaras/blob/8461daebf9bd0dea8d0c15e42a01f41a66c17361/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20112617.png)
+![7](https://github.com/ikerpa04/CPD_Camaras/blob/8461daebf9bd0dea8d0c15e42a01f41a66c17361/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20112617.png)
 
 El escenario simulado es el siguiente:
 
-!(https://github.com/ikerpa04/CPD_Camaras/blob/8461daebf9bd0dea8d0c15e42a01f41a66c17361/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20112628.png)
+![8](https://github.com/ikerpa04/CPD_Camaras/blob/8461daebf9bd0dea8d0c15e42a01f41a66c17361/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20112628.png)
 
 ## Configuración de Proxmox
 
