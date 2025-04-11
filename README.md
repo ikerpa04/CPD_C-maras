@@ -96,16 +96,23 @@ para futuras necesidades.
 
 **1. Planta**
     ● **Distribución de espacios con sus respectivas funciones** :
+    
        ○ Sala de servidores principal: Alojará el hardware crítico del CPD, como
           los servidores, los racks, switches,.
+          
        ○ Sala de comunicaciones: Gestión de redes y telecomunicaciones.
+       
        ○ Sala de control y monitoreo: Centro de operaciones con pantallas para
           visualización de datos y cámaras.
+          
        ○ Almacenamiento y archivo: Espacio dedicado a copias de seguridad
           físicas y digitales.
+          
        ○ Área de soporte técnico: Espacio para técnicos y herramientas.
+       
        ○ Sala de energía y climatización: Ubicación de UPS, generadores y
           sistemas de aire acondicionado.
+          
        ○ Zonas de acceso restringido y seguridad.
 
 
