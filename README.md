@@ -200,38 +200,55 @@ para futuras necesidades.
 
 ## Material a utilizar
 
-```
-● Equipos necesarios:
-○ Servidores de procesamiento de imágenes (ALPR), servidores de
+
+> Equipos necesarios:
+
+- Servidores de procesamiento de imágenes (ALPR), servidores de
 almacenamiento y de base de datos: Aproximadamente 3-6 servidores
 dependiendo del volumen de datos.
-○ Almacenamiento en red (NAS/SAN): 2-4 unidades para garantizar
-redundancia.
-○ Equipos de red (switches, routers, firewalls): 2-3 unidades.
-○ Espacio para crecimiento futuro: Se recomienda al menos un 20-30%
-adicional.
-● Capacidad de un rack estándar:
-○ Un rack típico mide 42U (1U = 1.75 pulgadas de altura).
-○ Servidores estándar ocupan entre 1U y 2U cada uno.
-○ Equipos de almacenamiento suelen ocupar entre 4U y 8U por unidad.
-○ Switches y routers: 1U-2U cada uno.
-● Estimación total de espacio necesario:
-○ Servidores: Unos 6 servidores x 2U = 12U.
-○ Almacenamiento: 4 unidades x 6U (promedio) = 24U.
-○ Equipos de red: 3 equipos x 2U = 6U.
-○ Espacio adicional para PDUs (distribución de energía) y mantenimiento:
-5U.
-```
 
-○ Espacio reservado para crecimiento futuro: 20U.
+- Almacenamiento en red (NAS/SAN): 2-4 unidades para garantizar
+redundancia.
+
+- Equipos de red (switches, routers, firewalls): 2-3 unidades.
+
+- Espacio para crecimiento futuro: Se recomienda al menos un 20-30%
+adicional.
+
+> Capacidad de un rack estándar:
+
+- Un rack típico mide 42U (1U = 1.75 pulgadas de altura).
+
+- Servidores estándar ocupan entre 1U y 2U cada uno.
+
+- Equipos de almacenamiento suelen ocupar entre 4U y 8U por unidad.
+
+- Switches y routers: 1U-2U cada uno.
+
+> Estimación total de espacio necesario:
+
+- Servidores: Unos 6 servidores x 2U = 12U.
+
+- Almacenamiento: 4 unidades x 6U (promedio) = 24U.
+
+- Equipos de red: 3 equipos x 2U = 6U.
+
+- Espacio adicional para PDUs (distribución de energía) y mantenimiento: 5U.
+
+- Espacio reservado para crecimiento futuro: 20U.
 Total: 75U de espacio necesario.
+
 **● Distribución en racks:**
-○ Cada rack tiene 42U, pero por ventilación y cableado no se debe llenar al
+
+- Cada rack tiene 42U, pero por ventilación y cableado no se debe llenar al
 100%.
-○ Usando un 70-80% de capacidad por rack, cada uno puede albergar
+
+- Usando un 70-80% de capacidad por rack, cada uno puede albergar
 30U-34U útiles.
+
 **● Racks necesarios:**
-○ 3 racks serán suficientes (2 llenos + 1 para redundancia y expansión).
+
+- 3 racks serán suficientes (2 llenos + 1 para redundancia y expansión).
 
 ## Distribución sugerida de los racks
 
