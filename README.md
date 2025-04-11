@@ -1618,6 +1618,7 @@ RAID
 
 
 A continuación descargamos la iso de la Raspberry, la cual pondremos dentro del TrueNas.
+
 ***Cuando iniciamos la instalación, la máquina nos da error y no hemos podido seguir con el proceso***
 
 
