@@ -696,11 +696,16 @@ pueden sumar entre 500 y 1.000 euros adicionales por rack. En total, la inversi�
 racks y accesorios estaría entre 3.900 y 7.500 euros.
 
 > Resumen de costes estimados:
-    - Servidores de procesamiento de imágenes (ALPR): 10.000 - 50.000 euros
-    - Almacenamiento en red (NAS/SAN): 1.000 - 10.000 euros
-    - Equipos de red (switches, routers, firewalls): 2.000 - 9.000 euros
-    - Racks y accesorios: 3.900 - 7.500 euros
-    - Total estimado: 16.900 - 76.500 euros
+
+   - Servidores de procesamiento de imágenes (ALPR): 10.000 - 50.000 euros
+    
+   - Almacenamiento en red (NAS/SAN): 1.000 - 10.000 euros
+    
+   - Equipos de red (switches, routers, firewalls): 2.000 - 9.000 euros
+    
+   - Racks y accesorios: 3.900 - 7.500 euros
+    
+   - Total estimado: 16.900 - 76.500 euros
 
 ---
 
