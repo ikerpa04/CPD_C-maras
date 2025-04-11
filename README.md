@@ -286,11 +286,14 @@ manera eficiente.
 Hemos cambiado la opción de instalar antenas P2P, por las tarjetas SIM, ya que en
 verdad hay una gran distancia, montañas, etc... Es muy difícil tener una buena
 conexión y no tener pérdidas de conexión y datos.
-Por eso hemos buscado otra opción y es la de implementar una tarjeta SIM a cada
-cámara, ya que así, aparte de tener una buena conexión y utilizar los servicios ya
+
+Por eso hemos buscado otra opción y es la de implementar *una tarjeta SIM a cada
+cámara*, ya que así, aparte de tener una buena conexión y utilizar los servicios ya
 instalados de telefonía, reducimos los costes y tiempo de instalación.
+
 Nos harán falta 478 tarjetas SIM (una por cada cámara), para conectar las cámaras por
 vía telefónica al CPD.
+
 El resultado total del número de cámaras a las que le tenemos que poner tarjetas SIM,
 se encuentran aquí, donde cada número al lado de el nombre de cada población es el
 identificador de cada una de ellas.
@@ -298,21 +301,33 @@ identificador de cada una de ellas.
 
 ## Almacenamiento
 
-**1. Datos de cada cámara :**
-● Matrícula: 10-20 caracteres (+/- 20 bytes).
-● Hora y fecha: +/- 16 caracteres (+/- 16 bytes).
-● Ubicación: +/- 50 caracteres (+/- 50 bytes).
-● Otros datos (ID de cámara): +/- 50 bytes.
-● Tamaño aproximado por evento : 150 bytes/evento.
-**2. Frecuencia de los eventos :**
-● Supongamos que cada cámara detecta un promedio de 1 vehículo por segundo
-    (en zonas de tráfico muy alto).
-**3. Eso equivale a:**
-● 60 vehículos/minuto.
-● 3.600 vehículos/hora.
-● 86.400 vehículos/día por cámara.
-**4. Número de cámaras :**
-    Total: 478 cámaras.
+> 1. Datos de cada cámara :
+
+- Matrícula: 10-20 caracteres (+/- 20 bytes).
+
+- Hora y fecha: +/- 16 caracteres (+/- 16 bytes).
+
+- Ubicación: +/- 50 caracteres (+/- 50 bytes).
+
+- Otros datos (ID de cámara): +/- 50 bytes.
+
+- Tamaño aproximado por evento : 150 bytes/evento.
+
+> 2. Frecuencia de los eventos :
+
+- Supongamos que cada cámara detecta un promedio de 1 vehículo por segundo (en zonas de tráfico muy alto).
+    
+> 3. Eso equivale a:
+
+- 60 vehículos/minuto.
+
+- 3.600 vehículos/hora.
+
+- 86.400 vehículos/día por cámara.
+
+> 4. Número de cámaras :
+
+- Total: 478 cámaras.
 
 ## Cálculo del Almacenamiento Total
 
