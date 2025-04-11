@@ -271,23 +271,28 @@ fallo de hasta 2 discos sin perder datos ya que cuenta con doble paridad
     Los discos de mayor capacidad (como los de 8TB) tienden a ser más económicos por
     GB comparado con discos más pequeños. Es decir, el costo por terabyte suele ser
     menor en discos de 8TB, lo que resulta en un ahorro a largo plazo.
+
 **2. Menor número de discos necesarios:**
     Al elegir discos de mayor capacidad, se necesita un menor número de discos físicos
     para alcanzar la capacidad de almacenamiento requerida. Esto reduce los costes de
     infraestructura (como los racks, cables y otros componentes).
+
 **3. Mejor rendimiento en discos HDD:**
     Aunque los discos más pequeños puedan parecer que proporcionan una recuperación
     más rápida, los discos más grandes pueden ofrecer una velocidad de lectura/escritura
     similar si se usan de manera adecuada en un entorno con configuraciones de RAID
     como RAID 6.
+
 **4. Menos consumo de energía y menos espacio:**
     Tener menos discos físicos también reduce el consumo energético, lo que tiene un
     impacto positivo en los costes operativos y en el uso de espacio en la sala del CPD. Al
     usar discos de mayor capacidad, se optimiza el uso del espacio disponible en los racks.
+
 **5. Escalabilidad:**
     A medida que los requisitos de almacenamiento crecen, los discos de mayor capacidad
     ofrecen mayor flexibilidad para expandir sin necesidad de cambiar toda la
     infraestructura o añadir más racks de servidores.
+
 **6. Resiliencia a largo plazo:**
     RAID 6 proporciona redundancia adicional. En el caso de discos de 8TB, se reduce la
     probabilidad de fallos simultáneos de discos durante el tiempo de vida útil de los discos,
