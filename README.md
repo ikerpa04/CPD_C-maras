@@ -385,6 +385,45 @@ Pincha aquí:
 
 [Ver en Github](https://github.com/ikerpa04/CPD_Camaras/blob/334e08f519b3217d6a6ce38285651be4522f5799/Contacto%20de%20c%C3%A1maras%20-%20C%C3%A1maras.csv)
 
+### 📊 Tabla de Contacto de Cámaras
+
+| Municipios                   | Camarás   | Cámaras que queremos poner   | Camaras A Poner   | Precio total   |
+|:-----------------------------|:----------|:-----------------------------|:------------------|:---------------|
+| Gandía                       | 9.0       | 47                           | 38                | 79.085,60 €    |
+| Oliva                        | 16.0      | 29                           | 13                | 27.055,60 €    |
+| Tabernes de Valldigna        | 3.0       | 19                           | 16                | 33.299,20 €    |
+| Jaraco                       |           | 20                           | 20                | 41.624,00 €    |
+| Bellreguart                  |           | 15                           | 15                | 31.218,00 €    |
+| Villalonga                   | 2.0       | 25                           | 23                | 47.867,60 €    |
+| Fuente Encarroz              |           | 14                           | 14                | 29.136,80 €    |
+| Daimuz                       | 2.0       | 22                           | 20                | 41.624,00 €    |
+| Simat de Valldigna           |           | 11                           | 11                | 22.893,20 €    |
+| Piles                        |           | 19                           | 19                | 39.542,80 €    |
+| Miramar                      |           | 16                           | 16                | 33.299,20 €    |
+| Real de Gandía               | 30.0      | 12                           | 0                 | 0,00 €         |
+| Almoines                     | 20.0      | 13                           | 0                 | 0,00 €         |
+| Jeresa                       |           | 9                            | 9                 | 18.730,80 €    |
+| Beniarjó                     | 11.0      | 11                           | 0                 | 0,00 €         |
+| Palma de Gandía              |           | 6                            | 6                 | 12.487,20 €    |
+| Ador                         |           | 8                            | 8                 | 16.649,60 €    |
+| Benirredrá                   |           | 12                           | 12                | 24.974,40 €    |
+| Benifairó de la Valldigna    |           | 10                           | 10                | 20.812,00 €    |
+| Alquería de la Condesa       |           | 15                           | 15                | 31.218,00 €    |
+| Bárig                        |           | 17                           | 17                | 35.380,40 €    |
+| Rafelcofer                   |           | 15                           | 15                | 31.218,00 €    |
+| Rótova                       | 26.0      | 5                            | 5                 | 10.406,00 €    |
+| Potríes                      |           | 11                           | 11                | 22.893,20 €    |
+| Palmera                      |           | 10                           | 10                | 20.812,00 €    |
+| Guardamar de la Safor        |           | 14                           | 14                | 29.136,80 €    |
+| Lugar Nuevo de San Jerónimo  |           | 13                           | 13                | 27.055,60 €    |
+| Beniflá                      | 30.0      | 11                           | 0                 | 0,00 €         |
+| Alfahuir                     | 9.0       | 3                            | 3                 | 6.243,60 €     |
+| Almiserat                    |           | 6                            | 6                 | 12.487,20 €    |
+| Castellonet                  |           | 6                            | 6                 | 12.487,20 €    |
+| **TOTAL**                    | 158.0     | 444                          | 365               | **759.638,00 €**   |
+
+#### Precio de cámaras por unidad: **1.720,00 € + IVA (21%) = 2.081,20 €**
+
 ## —------------------------------------------------------
 
 
