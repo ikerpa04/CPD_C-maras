@@ -1600,18 +1600,18 @@ Elegimos el usuario con el que vamos a gestionar el TrueNAS.
 Una vez finalice la instalación, si todo ha salido bien nos aparece un mensaje como el
 siguiente:
 
-![26](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20113026.png)
+![26](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20113039.png)
 
 Para poder acceder al TrueNAS, de manera remota desde ProxMox, ponemos el enlace en
 el navegador que nos aparece más abajo (http://IPTrueNAS / en nuestro caso la IP es
 192.168.0.216).
 
-![27](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20113039.png)
+![27](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20113051.png)
 
 Entramos dentro del TrueNas mediante la IP que nos proporciona el propio TrueNas y ha
 sido nombrada anteriormente.
 
-![28](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20113051.png)
+![28](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20113108.png)
 
 Cuando nos hayamos logueado, creamos 3 discos virtuales para después poder hacer un
 RAID
