@@ -331,43 +331,64 @@ identificador de cada una de ellas.
 
 ## Cálculo del Almacenamiento Total
 
-**1. Datos por día por cámara:**
-    ● Datos del evento: 150 bytes.
-    ● Eventos diarios por cámara: 86,
-**2. Datos del día por cámara :**
-    150 bytes × 86.400 vehículos por día = 12,96 MEGABYTE
-**3. Datos por día para 478 cámaras:**
-    12.96MB × 478 = 6,19 MB = 6.2GB/día
-**4. Datos por año para 478 cámaras:**
-    6.2GB/día × 365 = 2,263 GB = 2.2TB/año
+> 1. Datos por día por cámara:
+  
+- Datos del evento: 150 bytes.
+
+- Eventos diarios por cámara: 86,
+
+> 2. Datos del día por cámara :**
+  
+- 150 bytes × 86.400 vehículos por día = 12,96 MEGABYTE
+
+> 3. Datos por día para 478 cámaras:**
+
+- 12.96MB × 478 = 6,19 MB = 6.2GB/día
+
+> 4. Datos por año para 478 cámaras:**
+  
+- 6.2GB/día × 365 = 2,263 GB = 2.2TB/año
 
 
 ## Espacio Adicional para Indexación y Redundancia
 
-**1. Indexación y bases de datos :**
-    ● Incrementar el tamaño estimado un 20% por indexación:
-       2.2TB × 1.2 = 2.64TB /año
-**2. Redundancia (RAID):**
-    ● Usando RAID 6 (20%-30% más de espacio requerido):
-       2.64TB × 1.3 = 3.43TB /año
+> 1. Indexación y bases de datos :
+  
+  - Incrementar el tamaño estimado un 20% por indexación: 2.2TB × 1.2 = 2.64TB /año
+
+> 2. Redundancia (RAID):
+
+  - Usando RAID 6 (20%-30% más de espacio requerido): 2.64TB × 1.3 = 3.43TB /año
+
 Usaremos el RAID 6, debido a que es más seguro que el RAID 5 y tiene mas
 disponibilidad de datos. En este caso, para un CPD es más importante la seguridad de
 los datos y la disponibilidad que la velocidad de escritura.
+
 Este RAID 6 nos permite una mayor tolerancia a fallos que el RAID 5, permitiendo el
 fallo de hasta 2 discos sin perder datos ya que cuenta con doble paridad
 
 ## Recomendación de Tamaño del NAS/SAN
 
-**1. Capacidad por tiempo de retención:**
-    ● 1 año de retención : Necesitarás 3,5 TB de capacidad útil.
-    ● 5 años de retención : Necesitarás 17,5 TB de capacidad útil.
-**2. Considerar crecimiento futuro:**
-    ● Con un margen adicional del 50% para crecimiento, necesitarías:
+> 1. Capacidad por tiempo de retención:
+  
+  - 1 año de retención : Necesitarás 3,5 TB de capacidad útil.
+
+  - 5 años de retención : Necesitarás 17,5 TB de capacidad útil.
+
+> 2. Considerar crecimiento futuro:
+
+  - Con un margen adicional del 50% para crecimiento, necesitarías:
+    
        ○ 1 año de retención : 5 TB.
+
        ○ 5 años de retención : 26 TB.
-**3. Configuración del almacenamiento:**
-    ● Para cubrir 5 años con margen:
+
+> 3. Configuración del almacenamiento:
+   
+   - Para cubrir 5 años con margen:
+     
        ○ Discos : 8 x 8 TB HDD (64 TB brutos, 46 TB útiles en RAID 6).
+     
        ○ Esto permitiría cubrir hasta 10 años si fuera necesario.
 
 
