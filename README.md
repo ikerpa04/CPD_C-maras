@@ -198,8 +198,8 @@ para futuras necesidades.
 
  - Armarios para almacenamiento seguro de equipos.
 
-## Material a utilizar
 
+## Material a utilizar
 
 > Equipos necesarios:
 
@@ -238,7 +238,7 @@ adicional.
 - Espacio reservado para crecimiento futuro: 20U.
 Total: 75U de espacio necesario.
 
-**● Distribución en racks:**
+> Distribución en racks:
 
 - Cada rack tiene 42U, pero por ventilación y cableado no se debe llenar al
 100%.
@@ -246,31 +246,40 @@ Total: 75U de espacio necesario.
 - Usando un 70-80% de capacidad por rack, cada uno puede albergar
 30U-34U útiles.
 
-**● Racks necesarios:**
+> Racks necesarios:
 
 - 3 racks serán suficientes (2 llenos + 1 para redundancia y expansión).
+
+---
 
 ## Distribución sugerida de los racks
 
 Rack 1: Servidores y switches principales.
+
 Rack 2: Almacenamiento y equipos secundarios.
+
 Rack 3: Redundancia, espacio para futuros equipos y crecimiento.
+
 Para garantizar un diseño eficiente del Centro de Procesamiento de Datos (CPD) y
 cumplir con los requerimientos del proyecto, se ha realizado una estimación detallada
 de los equipos necesarios y su distribución en racks. A continuación, se justifica por qué
 se requieren tres racks.
+
 Un rack típico tiene 42U, pero en la práctica no se puede ocupar al 100% debido a
 varios factores:
+
 Ventilación y flujo de aire: Se recomienda dejar un margen de al menos un 20-30% libre
 para evitar sobrecalentamiento y permitir un flujo de aire adecuado.
+
 Gestión de cableado: Un espacio adicional permite una mejor organización del cableado
 de red y energía, reduciendo interferencias y mejorando la accesibilidad para
 mantenimiento.
+
 Expansión futura: Contar con espacio libre dentro de los racks facilita la incorporación
 de nuevos equipos sin necesidad de reorganizar o trasladar equipos ya instalados.
+
 Por estos motivos, se considera que cada rack puede utilizar entre 30U y 34U de
 manera eficiente.
-
 
 ### Tarjetas SIM
 
