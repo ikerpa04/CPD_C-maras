@@ -481,39 +481,68 @@ fallo de hasta 2 discos sin perder datos ya que cuenta con doble paridad
 
 
 **1. Cortes o secciones**
-    ● **Vistas transversales o longitudinales** :
-       ○ Altura mínima de la sala de servidores: 3 metros para garantizar la
-          ventilación.
-       ○ Niveles de acceso restringido en áreas críticas.
-       ○ Detalles de instalación de sistemas de aire acondicionado, bandejas
-          portacables, y sistemas contra incendios.
+    
+- **Vistas transversales o longitudinales** :
+
+  - Altura mínima de la sala de servidores: 3 metros para garantizar la ventilación.
+         
+  - Niveles de acceso restringido en áreas críticas.
+       
+  - Detalles de instalación de sistemas de aire acondicionado, bandejas portacables, y sistemas contra incendios.
+
 **2. Fachadas**
-    ● **Vista exterior desde distintos ángulos** :
-       ○ Diseño minimalista y reforzado.
-       ○ Materiales resistentes al clima y al vandalismo.
-       ○ Indicación clara de acceso principal y salidas de emergencia.
+
+- **Vista exterior desde distintos ángulos** :
+       
+   - Diseño minimalista y reforzado.
+       
+   - Materiales resistentes al clima y al vandalismo.
+       
+   - Indicación clara de acceso principal y salidas de emergencia.
+
 **3. Detalles constructivos**
-    ● **Información ampliada de áreas críticas** :
-       ○ Sistema de refrigeración redundante (N+1).
-       ○ Acabados de suelos elevados para el paso de cableado.
-       ○ Sistemas contra incendios con gases inertes.
-       ○ Sellado de uniones para evitar polvo y humedad.
+
+- **Información ampliada de áreas críticas** :
+
+   - Sistema de refrigeración redundante (N+1).
+
+   - Acabados de suelos elevados para el paso de cableado.
+
+   - Sistemas contra incendios con gases inertes.
+       
+    - Sellado de uniones para evitar polvo y humedad.
+
 **4. Planos estructurales**
-    ● **Columnas y vigas** :
-       ○ Diseño para soportar la carga de equipos pesados.
-    ● **Otros elementos estructurales** :
-       ○ Pisos elevados y paredes aisladas térmica y acústicamente.
+
+   - **Columnas y vigas** :
+     
+       - Diseño para soportar la carga de equipos pesados.
+
+   - **Otros elementos estructurales** :
+     
+       - Pisos elevados y paredes aisladas térmica y acústicamente.
+
 **5. Instalaciones**
-    ● **Eléctricas** :
-       ○ Circuitos separados para equipos esenciales y no esenciales.
-       ○ Puntos de luz LED distribuidos uniformemente.
-       ○ Enchufes industriales y redundancia eléctrica con UPS y generadores.
-    ● **Hidrosanitarias** :
-       ○ Sistemas de drenaje para posibles escapes de agua.
-       ○ Suministro de agua para sistemas de refrigeración.
-    ● **Mecánicas o especiales** :
-       ○ Aire acondicionado con redundancia.
-       ○ Sistemas de ventilación controlada y monitoreo de humedad.
+   
+- **Eléctricas** :
+       
+  - Circuitos separados para equipos esenciales y no esenciales.
+       
+  - Puntos de luz LED distribuidos uniformemente.
+    
+  - Enchufes industriales y redundancia eléctrica con UPS y generadores.
+    
+ - **Hidrosanitarias** :
+
+   - Sistemas de drenaje para posibles escapes de agua.
+
+   - Suministro de agua para sistemas de refrigeración.
+    
+- **Mecánicas o especiales** :
+       
+   - Aire acondicionado con redundancia.
+       
+   - Sistemas de ventilación controlada y monitoreo de humedad.
 
 
 ## Especificaciones Técnicas
@@ -525,6 +554,8 @@ fallo de hasta 2 discos sin perder datos ya que cuenta con doble paridad
    - Paredes: Revestimientos ignífugos y aislantes acústicos.
    
    - Techos: Paneles desmontables para mantenimiento.
+
+---
 
 ## Información Gráfica y Simbólica
 
@@ -594,33 +625,33 @@ del proyecto.
 |:-----------------------------|:----------|:-----------------------------|:------------------|:---------------|
 | Gandía                       | 9         | 47                           | 38                | 79.085,60 €    |
 | Oliva                        | 16        | 29                           | 13                | 27.055,60 €    |
-| Tabernes de Valldigna        | 3         | 19                           | 16                | 33.299,20 €    |
-| Jaraco                       |           | 20                           | 20                | 41.624,00 €    |
+| Tavernes de la Valldigna     | 3         | 19                           | 16                | 33.299,20 €    |
+| Xeraco                       |           | 20                           | 20                | 41.624,00 €    |
 | Bellreguart                  |           | 15                           | 15                | 31.218,00 €    |
 | Villalonga                   | 2         | 25                           | 23                | 47.867,60 €    |
-| Fuente Encarroz              |           | 14                           | 14                | 29.136,80 €    |
-| Daimuz                       | 2         | 22                           | 20                | 41.624,00 €    |
-| Simat de Valldigna           |           | 11                           | 11                | 22.893,20 €    |
+| La Font d'en Carrós          |           | 14                           | 14                | 29.136,80 €    |
+| Daimús                       | 2         | 22                           | 20                | 41.624,00 €    |
+| Simat de la Valldigna        |           | 11                           | 11                | 22.893,20 €    |
 | Piles                        |           | 19                           | 19                | 39.542,80 €    |
 | Miramar                      |           | 16                           | 16                | 33.299,20 €    |
 | Real de Gandía               | 30        | 12                           | 0                 | 0,00 €         |
 | Almoines                     | 20        | 13                           | 0                 | 0,00 €         |
-| Jeresa                       |           | 9                            | 9                 | 18.730,80 €    |
+| Xeresa                       |           | 9                            | 9                 | 18.730,80 €    |
 | Beniarjó                     | 11        | 11                           | 0                 | 0,00 €         |
 | Palma de Gandía              |           | 6                            | 6                 | 12.487,20 €    |
 | Ador                         |           | 8                            | 8                 | 16.649,60 €    |
 | Benirredrá                   |           | 12                           | 12                | 24.974,40 €    |
 | Benifairó de la Valldigna    |           | 10                           | 10                | 20.812,00 €    |
 | Alquería de la Condesa       |           | 15                           | 15                | 31.218,00 €    |
-| Bárig                        |           | 17                           | 17                | 35.380,40 €    |
+| Barx                         |           | 17                           | 17                | 35.380,40 €    |
 | Rafelcofer                   |           | 15                           | 15                | 31.218,00 €    |
 | Rótova                       | 26        | 5                            | 5                 | 10.406,00 €    |
 | Potríes                      |           | 11                           | 11                | 22.893,20 €    |
 | Palmera                      |           | 10                           | 10                | 20.812,00 €    |
 | Guardamar de la Safor        |           | 14                           | 14                | 29.136,80 €    |
-| Lugar Nuevo de San Jerónimo  |           | 13                           | 13                | 27.055,60 €    |
+| Llocnou de Sant Jeroni       |           | 13                           | 13                | 27.055,60 €    |
 | Beniflá                      | 30        | 11                           | 0                 | 0,00 €         |
-| Alfahuir                     | 9         | 3                            | 3                 | 6.243,60 €     |
+| Alfauir                     | 9         | 3                            | 3                 | 6.243,60 €     |
 | Almiserat                    |           | 6                            | 6                 | 12.487,20 €    |
 | Castellonet                  |           | 6                            | 6                 | 12.487,20 €    |
 | **TOTAL**                    | 158       | 444                          | 365               | **759.638,00 €**   |
