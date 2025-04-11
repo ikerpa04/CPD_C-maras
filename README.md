@@ -1519,62 +1519,106 @@ El escenario simulado es el siguiente:
 
 En esta primera captura se puede ver la pantalla principal al arrancar Proxmox.
 
+![9](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20112640.png)
 
 Aquí proxmox comienza a arrancar.
+
+![10](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20112656.png)
+
 Aceptamos la licencia para el usuario.
+
+![11](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20112711.png)
 
 
 Aquí nos pregunta en que disco queremos instalarlo (en nuestro caso elegimos el del PC el
 cual va a hacer de servidor).
+
+![12](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20112725.png)
+
 Configuramos la zona horaria.
 
+![13](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20112740.png)
 
 El siguiente paso que nos pide es crear las credenciales para acceder dentro de Proxmox
 (nuestras credenciales son: Usuario: root / Email: danibanezmarti@gmail.com / Contraseña:
 admin ).
+
+![14](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20112755.png)
+
 Configuramos el hostname de la máquina y nos da una IP (nuestro hostname es: CPD
 / IP: 192.168.0.254 / gateway: 192.168.0.1).
 
+![15](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20112809.png)
 
 Nos aparece el resumen de la creación de la máquina:
+
+![16](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20112822.png)
+
 Comenzamos la instalación del Proxmox en el PC.
 
+![17](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20112835.png)
 
 Cuando se haya terminado la instalación se reiniciará la máquina y nos aparecerá el
 siguiente menú.
+
+![18](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20112852.png)
+
 Por último, cuando elijamos la opción de Proxmox, accedemos donde nos pide el usuario y
 la contraseña configurados previamente.
 
+![19](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20112910.png)
 
 Una vez conectado desde el Portátil usando este enlace (https://IP:puerto) te pide el usuario
 y la contraseña configurada al hacer la instalación del Proxmox, nos conectaremos
 mediante esa IP con el portátil para acceder de manera remota.
+
+![20](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20112927.png)
+
 Una vez dentro del Proxmox podemos observar el siguiente escenario.
 
+![21](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20112942.png)
 
 Cuando ya hemos accedido, creamos una máquina virtual Truenas usando la imagen iso,
 desde el Portátil.
+
+![22](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20112957.png)
+
 Iniciamos la instalación del TrueNas una vez puesta la ISO.
+
+![23](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20113007.png)
+
 Elegimos la opción de instalar.
 
+![24](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20113016.png)
 
 En este paso seleccionaremos el disco del PC servidor conectado con el portátil.
+
+![25](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20113026.png)
+
 Elegimos el usuario con el que vamos a gestionar el TrueNAS.
 
+![26](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20113026.png)
 
 Una vez finalice la instalación, si todo ha salido bien nos aparece un mensaje como el
 siguiente:
+
+![27](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20113039.png)
+
 Para poder acceder al TrueNAS, de manera remota desde ProxMox, ponemos el enlace en
 el navegador que nos aparece más abajo (http://IPTrueNAS / en nuestro caso la IP es
 192.168.0.216).
 
+![28](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20113051.png)
 
 Entramos dentro del TrueNas mediante la IP que nos proporciona el propio TrueNas y ha
 sido nombrada anteriormente.
+
+![29](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20113108.png)
+
 Cuando nos hayamos logueado, creamos 3 discos virtuales para después poder hacer un
 RAID
 A continuación descargamos la iso de la Raspberry, la cual pondremos dentro del TrueNas.
-Cuando iniciamos la instalación, la máquina nos da error.
+***Cuando iniciamos la instalación, la máquina nos da error y no hemos podido seguir con el proceso***
 
 
 
