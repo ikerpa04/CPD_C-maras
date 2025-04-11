@@ -152,54 +152,51 @@ para futuras necesidades.
 
 
 
-● Dimensiones (medidas) :
+***Dimensiones (medidas) :***
 
+ - Sala de servidores: 50 m².
 
-○ Sala de servidores: 50 m².
+ - Sala de comunicaciones: 25 m².
 
-○ Sala de comunicaciones: 25 m².
+ - Sala de control: 40 m².
 
-○ Sala de control: 40 m².
+ - Espacio técnico: 30 m².
 
-○ Espacio técnico: 30 m².
+ - Sala de energía y climatización: 20 m².
 
-○ Sala de energía y climatización: 20 m².
+**Mobiliario sugerido :**
 
-● Mobiliario sugerido :
+ -- Hardware
 
-○ Hardware
+ - Servidores de alta capacidad con redundancia.
 
-■ Servidores de alta capacidad con redundancia.
+ - Almacenamiento escalable en red (NAS o SAN).
 
-■ Almacenamiento escalable en red (NAS o SAN).
+ - Switches y routers de última generación con soporte para VLAN.
 
-■ Switches y routers de última generación con soporte para VLAN.
+ - UPS y generadores con autonomía de 12 horas mínimo.
 
-■ UPS y generadores con autonomía de 12 horas mínimo.
+ -- Software
 
-○ Software
+ - Sistema de gestión de bases de datos para registro de matrículas.
 
-■ Sistema de gestión de bases de datos para registro de
+ - Plataforma centralizada de monitoreo.
 
-matrículas.
+ - Sistema de gestión de accesos y registros.
 
-■ Plataforma centralizada de monitoreo.
+ -- Otros Requisitos
 
-■ Sistema de gestión de accesos y registros.
+ - Enlaces de red redundantes con alto ancho de banda.
 
-○ Otros Requisitos
+ - Integración con cámaras de vigilancia municipales.
 
-■ Enlaces de red redundantes con alto ancho de banda.
+ - Seguridad física: Control de acceso biométrico y videovigilancia.
 
-■ Integración con cámaras de vigilancia municipales.
+ - Sistema de respaldo diario con almacenamiento fuera del sitio.
 
-■ Seguridad física: Control de acceso biométrico y videovigilancia.
+ - Escritorios y sillas ergonómicas en sala de monitoreo.
 
-■ Sistema de respaldo diario con almacenamiento fuera del sitio.
-
-■ Escritorios y sillas ergonómicas en sala de monitoreo.
-
-■ Armarios para almacenamiento seguro de equipos.
+ - Armarios para almacenamiento seguro de equipos.
 
 ## Material a utilizar
 
