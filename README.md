@@ -166,7 +166,7 @@ para futuras necesidades.
 
 **Mobiliario sugerido :**
 
- -- Hardware
+ > Hardware
 
  - Servidores de alta capacidad con redundancia.
 
@@ -176,7 +176,7 @@ para futuras necesidades.
 
  - UPS y generadores con autonomía de 12 horas mínimo.
 
- -- Software
+ > Software
 
  - Sistema de gestión de bases de datos para registro de matrículas.
 
@@ -184,7 +184,7 @@ para futuras necesidades.
 
  - Sistema de gestión de accesos y registros.
 
- -- Otros Requisitos
+ > Otros Requisitos
 
  - Enlaces de red redundantes con alto ancho de banda.
 
