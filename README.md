@@ -73,23 +73,29 @@ vigilancia policial.
 ## Datos Generales del proyecto
 
 **Ubicación del CPD:** Polígono industrial Benieto, Gandia.
+
 **¿Quién realizará las instalaciones?¿ Nosotros o una empresa externa?**
 La instalación del CPD y de las cámaras será realizada por el personal contratado para
 el mantenimiento y gestión del centro.
+
 Ahorramos en gastos extra al contratar terceras personas y contaremos con personal
 cualificado para realizar dicha tarea.
+
 El personal que buscaremos serán profesionales graduados en CFGS de
 Administración de Sistemas Informáticos y Redes.
 
 ## Esquema Técnico
 
-El **Centro de Procesamiento de Datos (CPD)** está diseñado para garantizar
+> El **Centro de Procesamiento de Datos (CPD)** está diseñado para garantizar
 **seguridad, eficiencia y continuidad operativa**.
-El CPD contará con **servidores de alto rendimiento, almacenamiento NAS/SAN,
+
+> El CPD contará con **servidores de alto rendimiento, almacenamiento NAS/SAN,
 switches avanzados y generadores de autonomía de 12 horas**.
-A nivel de software, incluirá una **plataforma de monitoreo e integración con cámaras
+
+> A nivel de software, incluirá una **plataforma de monitoreo e integración con cámaras
 municipales**.
-Finalmente, se implementarán **respaldo diario fuera del sitio, mobiliario ergonómico
+
+> Finalmente, se implementarán **respaldo diario fuera del sitio, mobiliario ergonómico
 en la sala de monitoreo y armarios de seguridad** , garantizando una operación
 eficiente y protegida. Este diseño asegura un CPD escalable, confiable y preparado
 para futuras necesidades.
