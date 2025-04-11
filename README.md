@@ -86,16 +86,16 @@ Administración de Sistemas Informáticos y Redes.
 
 ## Esquema Técnico
 
-> El **Centro de Procesamiento de Datos (CPD)** está diseñado para garantizar
+- El **Centro de Procesamiento de Datos (CPD)** está diseñado para garantizar
 **seguridad, eficiencia y continuidad operativa**.
 
-> El CPD contará con **servidores de alto rendimiento, almacenamiento NAS/SAN,
+- El CPD contará con **servidores de alto rendimiento, almacenamiento NAS/SAN,
 switches avanzados y generadores de autonomía de 12 horas**.
 
-> A nivel de software, incluirá una **plataforma de monitoreo e integración con cámaras
+- A nivel de software, incluirá una **plataforma de monitoreo e integración con cámaras
 municipales**.
 
-> Finalmente, se implementarán **respaldo diario fuera del sitio, mobiliario ergonómico
+- Finalmente, se implementarán **respaldo diario fuera del sitio, mobiliario ergonómico
 en la sala de monitoreo y armarios de seguridad** , garantizando una operación
 eficiente y protegida. Este diseño asegura un CPD escalable, confiable y preparado
 para futuras necesidades.
