@@ -1107,6 +1107,7 @@ entra y sale, bloqueando así mismo, accesos no autorizados y previniendo
 ataques externos, como ataques DDoS que nos in-utilizarían los servicios o
 algún malware proveniente de páginas no seguras.
 
+---
 
 ** Detección de intrusos:** Instalaremos sistemas de detección de intrusos que
 monitoreen la red en busca de actividades maliciosas o sospechosas. Este
