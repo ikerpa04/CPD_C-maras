@@ -1585,38 +1585,40 @@ desde el Portátil.
 
 Iniciamos la instalación del TrueNas una vez puesta la ISO.
 
-![23](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20113007.png)
-
 Elegimos la opción de instalar.
 
-![24](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20113016.png)
+![23](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20113007.png)
 
 En este paso seleccionaremos el disco del PC servidor conectado con el portátil.
 
-![25](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20113026.png)
+![24](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20113016.png)
 
 Elegimos el usuario con el que vamos a gestionar el TrueNAS.
 
-![26](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20113026.png)
+![25](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20113026.png)
 
 Una vez finalice la instalación, si todo ha salido bien nos aparece un mensaje como el
 siguiente:
 
-![27](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20113039.png)
+![26](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20113026.png)
 
 Para poder acceder al TrueNAS, de manera remota desde ProxMox, ponemos el enlace en
 el navegador que nos aparece más abajo (http://IPTrueNAS / en nuestro caso la IP es
 192.168.0.216).
 
-![28](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20113051.png)
+![27](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20113039.png)
 
 Entramos dentro del TrueNas mediante la IP que nos proporciona el propio TrueNas y ha
 sido nombrada anteriormente.
 
-![29](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20113108.png)
+![28](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20113051.png)
 
 Cuando nos hayamos logueado, creamos 3 discos virtuales para después poder hacer un
 RAID
+
+![29](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20113108.png)
+
+
 A continuación descargamos la iso de la Raspberry, la cual pondremos dentro del TrueNas.
 ***Cuando iniciamos la instalación, la máquina nos da error y no hemos podido seguir con el proceso***
 
