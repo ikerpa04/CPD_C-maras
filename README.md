@@ -109,7 +109,7 @@ para futuras necesidades.
        ○ Zonas de acceso restringido y seguridad.
 
 
-```
+
 ● Dimensiones (medidas) :
 ○ Sala de servidores: 50 m².
 ○ Sala de comunicaciones: 25 m².
@@ -134,7 +134,7 @@ matrículas.
 ■ Sistema de respaldo diario con almacenamiento fuera del sitio.
 ■ Escritorios y sillas ergonómicas en sala de monitoreo.
 ■ Armarios para almacenamiento seguro de equipos.
-```
+
 ## Material a utilizar
 
 ```
