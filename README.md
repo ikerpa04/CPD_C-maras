@@ -380,8 +380,11 @@ todos los municipios sin excepción.
 ### - Cámaras puestas por la población
 
 Pincha aquí:
-###[Ver en google](https://docs.google.com/spreadsheets/d/e/2PACX-1vRe6aq3EfQ-7jng487EhPubw0G6TPfqSOqJHG4IKbeqMuCc52lgcDv3aVPqUi4JTKMmEoisgJaS4PY-/pubhtml?gid=0&single=true)
-###[ver tabla](https://github.com/ikerpa04/CPD_Camaras/blob/334e08f519b3217d6a6ce38285651be4522f5799/Contacto%20de%20c%C3%A1maras%20-%20C%C3%A1maras.csv)
+
+[Ver en Google](https://docs.google.com/spreadsheets/d/e/2PACX-1vRe6aq3EfQ-7jng487EhPubw0G6TPfqSOqJHG4IKbeqMuCc52lgcDv3aVPqUi4JTKMmEoisgJaS4PY-/pubhtml?gid=0&single=true)
+
+[Ver en Github](https://github.com/ikerpa04/CPD_Camaras/blob/334e08f519b3217d6a6ce38285651be4522f5799/Contacto%20de%20c%C3%A1maras%20-%20C%C3%A1maras.csv)
+
 ## —------------------------------------------------------
 
 
