@@ -44,6 +44,34 @@ Daniel Ibáñez Martí - Iker Ariel Patiño Alvarez - Francisco Sánchez Garcia
    - CONTINGENCIA DE PRIVACIDAD
    - PLAN DE FORMACIÓN Y SIMULACROS
 
+  - 5 Arquitectura del CPD
+      - Infraestructura Física
+      - Infraestructura de Red
+      - Servidores y Almacenamiento
+- Diagrama de los Racks
+   - Configuraciones Implementadas
+      - Configuración de Red
+      - Seguridad y Protección
+   - Decisiones Tomadas
+      - Redundancia y Alta Disponibilidad
+      - Seguridad
+      - Escalabilidad
+   - Manuales de Usuario y Guías de Administración
+      - Manual de Usuario
+      - Guía de Administración
+   - Procedimientos de Mantenimiento y Gestión de Recursos
+      - Procedimientos de Mantenimiento
+      - Gestión de Recursos
+      - Plan de Respuesta ante Incidentes
+   - Conclusión
+- Seguridad Informática
+   - Protección contra Amenazas
+   - Protección de Recursos del CPD
+- Plan de Recuperación del CPD
+   - Copias de seguridad
+   - Almacenamiento Seguro de copias
+   - Restauración Rápida
+   - Mecanismos Redundantes
 
 ## Definición Del Proyecto
 
@@ -591,13 +619,13 @@ web, es decir el mercado negro
 
 ### Protección deficiente:
 
-```
+
 ● Vulnerabilidades: Podemos encontrar vulnerabilidades en el sistema debido a
 parches de seguridad deficiente o con fallos, también en la falta de
 actualizaciones del sistema.
 ● Contraseñas vulnerables: Debido a contraseñas vulnerables o por compartir la
 contraseña, pueden acceder quien no debe al sistema y producir fallos.
-```
+
 
 ## RIESGOS OPERATIVOS
 
@@ -606,35 +634,35 @@ hardware o por terceras personas, a continuación veremos los siguientes riesgos
 
 ### Hardware:
 
-```
+
 ● Hardware: Podemos encontrar fallos en dispositivos hardware, ya sean los
 discos duros o sistemas de almacenamiento o servidores, causando pérdida de
 datos o interrupciones del funcionamiento correcto del CPD.
-```
+
 ### Energía:
 
-```
+
 ● Energía: Un riesgo posible muy importante es la energía, es decir, los cortes de
 luz o sobretensión. Esto puede afectar al correcto funcionamiento o inclusive se
 pueden quemar o dañar los dispositivos
-```
+
 ### Humanos:
 
-```
+
 ● Configuración: Debido a errores de configuración pueden haber errores en los
 sistemas.
 ● Eliminación datos: Debido a errores humanos, pueden eliminar datos
 importantes o archivos de configuración.
 ● Mala gestión: Una mala gestión de las actualizaciones o de los mantenimientos
 necesarios puede provocar fallas en el CPD.
-```
+
 ### Capacidad Insuficiente:
 
-```
+
 ● Capacidad: Debido al crecimiento de datos nuevos cada día, puede aumentar
 tanto la capacidad de almacenamiento que no permitirá añadir nuevos datos e
 inclusive producir fallos en el sistema.
-```
+
 
 ## RIESGOS DE PRIVACIDAD
 
@@ -644,24 +672,24 @@ es muy importante por su delicadeza del tratamiento de datos.
 
 ### Protección de datos:
 
-```
+
 ● RGPD: El incumplimiento del Reglamento General de Protección de Datos
 puede conllevar sanciones en cuanto al uso y almacenamiento de datos
 personales.
-```
+
 ### Uso indebido de los datos:
 
-```
+
 ● Datos: Las grabaciones en sitios no autorizados o que apunten a sitios
 reservados pueden acarrear sanciones estipuladas por el reglamento.
-```
+
 ### Anonimización:
 
-```
+
 ● Anonimización: Si los datos almacenados en el CPD no son anonimizados que
 podrían ser vinculados directamente a ciudadanos, puede aumentar el riesgo de
 abusos u otros problemas.
-```
+
 
 ## RIESGOS FÍSICOS
 
@@ -670,25 +698,25 @@ Estos riesgos pueden acarrear diferentes problemas con difícil solución a cort
 
 ### No autorizado:
 
-```
+
 ● Intrusos: Pueden acceder al CPD, personal no autorizado o intrusos que
 puedan robar o dañar los datos almacenados en el mismo.
 ● Robo: El robo de dispositivos físicos que contengan datos sensibles pueden
 acarrear problemas legales o del correcto funcionamiento del CPD.
-```
+
 ### Desastres:
 
-```
+
 ● Desastres: Pueden ocurrir incendios o inundaciones que dañan los servidores o
 los sistemas de almacenamiento. También pueden ocurrir diferentes desastres
 naturales como terremotos.
-```
+
 ### Vandalismo:
 
-```
+
 ● Sabotaje: Los intentos intencionados de dañar equipos o instalaciones del CPD
 pueden dañar el funcionamiento correcto del mismo.
-```
+
 
 ## RIESGOS TECNOLÓGICOS
 
@@ -698,25 +726,25 @@ plazo por no elegir correctamente el equipo necesario.
 
 ### Obsolescencia:
 
-```
+
 ● Obsolescencia: El uso de hardware o software antiguo o sin actualizarse,
 pueden acarrear problemas. Al usar hardware antiguo puede ocasionar lentitud
 en la lectura o escritura de datos. También al usar software antiguo, pueden
 tener problemas de seguridad.
-```
+
 ### Interoperabilidad:
 
-```
+
 ● Compatibilidad: La falta de compatibilidad de diferentes sistemas de cámaras,
 sistemas de almacenamiento, servidores, etc; pueden producir fallos en el CPD
 y no funcionar al máximo de rendimiento.
-```
+
 ### Reconocimiento:
 
-```
+
 ● Errores: La tasa de errores en la detección de matrículas, generando errores en
 la información o información insuficiente.
-```
+
 
 **Planes de contingencia**
 
@@ -724,17 +752,17 @@ la información o información insuficiente.
 
 ### Prevención:
 
-```
+
 ● Firewalls: Al instalar firewalls actualizados y sistemas de prevención de intrusos
 prevenimos hackeos o virus que se metan al CPD.
 ● Pruebas: Deberemos realizar pruebas contra intrusos para verificar la fiabilidad
 del sistema instalado evitando hackeos.
 ● Cifrar: Cifrando los datos que entran y salen del CPD evitamos que alguien
 pueda acceder a ellos fácilmente.
-```
+
 ### Respuesta:
 
-```
+
 ● CSIRT: Definiendo un equipo de respuesta ante incidentes para actuar
 rápidamente en caso de un ciberataque.
 ● Aislamiento: Aislando los sistemas afectados para contener ciberataques y
@@ -745,16 +773,16 @@ no perder tiempo en el procesamiento de datos.
 podemos restaurar datos en caso de pérdida.
 ● Parches: Aplicando parches a sistemas vulnerables y reforzando los controles
 de seguridad.
-```
+
 ### Recuperación:
 
-```
+
 ● Investigación: Investigando el origen del ataque y reforzando los sistemas,
 podemos prevenir ataques similares.
 ● Notificar: En caso de fallo en la seguridad, hay que notificar a las autoridades
 pertinentes y a los ciudadanos afectados según las leyes de protección de
 datos.
-```
+
 
 ## CONTINGENCIA PARA FALLOS
 
@@ -762,7 +790,7 @@ datos.
 
 ### Prevención:
 
-```
+
 ● Redundancia: Diseñando una infraestructura redundante para servidores,
 almacenamiento y energía para evitar pérdidas en el sistema.
 ● Balanceadores: Implementando “balanceadores” de carga para evitar que se
@@ -772,10 +800,10 @@ hardware y el software que usamos, evitamos que se dañen en un momento
 inoportuno.
 ● Actualizaciones: Actualizando los sistemas y reemplazando los equipos
 obsoletos antes de que comiencen a fallar.
-```
+
 ### Respuesta:
 
-```
+
 ● Respaldo: Activando sistemas de respaldo para cambiar automáticamente a
 servidores secundarios en caso de fallos para no perder tiempo.
 ● Copias: Usando copias de seguridad incrementales diarias evitando la pérdida
@@ -784,21 +812,21 @@ de datos.
 en tiempo real si surge algún problema en el CPD.
 ● Diagnóstico: Estableciendo procedimientos de diagnóstico podemos identificar
 rápidamente el fallo antes o durante que ocurra.
-```
+
 ### Recuperación:
 
-```
+
 ● Restauración: En caso de restaurar, deberemos priorizar la recuperación de
 servicios esenciales como la comunicación con cámaras críticas e importantes.
 ● Verificación: Verificando la integridad de los datos restaurados verificamos que
 está todo correctamente y no hemos tenido pérdidas de datos.
-```
+
 
 ## CONTINGENCIA PARA DESASTRES FÍSICOS
 
 ### Prevención:
 
-```
+
 ● Protección: Ubicando el CPD en una zona segura, lejos de inundaciones como
 localidades “altas” o evitando áreas sísmicas, evitamos que pueda tener algún
 desastre físico.
@@ -809,30 +837,30 @@ ubicado en otra región puede ser caro pero en caso de “mal mayor” puede
 ayudarnos mucho.
 ● Nube: Usando servicios de almacenamiento como la nube como
 almacenamiento de respaldo podemos evitar pérdidas de datos.
-```
+
 ### Respuesta:
 
-```
+
 ● Reparar: Reparando el CPD afectado y trasladando los datos y servicios desde
 el CPD secundario podemos evitar perder mucho tiempo en la restauración o
 reparación de nuestro CPD.
 ● Respaldo: Activando sistemas de respaldo en el CPD secundario para continuar
 las operaciones de reparación.
-```
+
 ### Recuperación:
 
-```
+
 ● Reparación: Para reparar al completo el CPD, tendremos que trasladar los
 datos y servicios desde el CPD secundario.
 ● Probar: Probando los sistemas antes de restaurar el CPD principal evitaremos
 otra vez daños o pérdidas de tiempo de reparación.
-```
+
 
 ## Planes de contingencia
 
 ### Prevención:
 
-```
+
 ● Políticas: Estableciendo políticas claras de privacidad y protección de datos,
 cumpliento con el RGPD y normativas locales, evitaremos problemas legales.
 ● Anonimizar: Hay que anonimizar todos los datos siempre que sean posibles
@@ -840,15 +868,15 @@ porque podremos tener problemas legales con los ciudadanos o autoridades
 pertinentes.
 ● Auditorías: Tendremos que contratar auditorías externas para verificar
 constantemente el cumplimiento legal y técnico del CPD.
-```
+
 ### Respuesta:
 
-```
+
 ● Informar: Deberemos informar a las autoridades y afectados sobre fugas de
 datos en un plazo de 72 horas, según el RGPD.
 ● Análisis: Debemos realizar un análisis de impacto para entender la magnitud
 del incidente.
-```
+
 ### Recuperación:
 
 **● Políticas:** Deberemos ajustar las políticas y sistemas para evitar
@@ -861,19 +889,18 @@ prácticas de privacidad y seguridad.
 
 ### Prevención:
 
-```
+
 ● Capacitación: Debemos entrenar a los empleados en ciberseguridad, gestión
 de los datos y protocolos de emergencia, para poder evitar ciberataques o
 problemas de seguridad y evitar robo de datos.
 ● Simulacros: Deberíamos realizar simulaciones de fallos críticos, ciberataques y
 desastres naturales para probar la efectividad de los planes de contingencia.
-```
+
 ### Respuesta:
 
-```
+
 ● Evaluación: Deberemos evaluar e identificar las áreas de mejora tras cada
 simulacro y ajustar los planes según sea necesario.
-```
 
 **_Interconexión:_**
 ● **Telemáticamente:** Los clientes tendrán acceso a los servicios del CPD
@@ -1002,46 +1029,6 @@ caso de desastres, incluyendo roles y responsabilidades del personal,
 procedimientos y planes de contingencia.
 
 
-# Sprint 2
-
-## Daniel Ibáñez Martí - Francisco Sánchez Garcia - Iker Ariel
-
-## Patiño Alvarez
-
-
-## ÍNDICE
-
-   - 5 Arquitectura del CPD
-      - Infraestructura Física
-      - Infraestructura de Red
-      - Servidores y Almacenamiento
-- Diagrama de los Racks
-   - Configuraciones Implementadas
-      - Configuración de Red
-      - Seguridad y Protección
-   - Decisiones Tomadas
-      - Redundancia y Alta Disponibilidad
-      - Seguridad
-      - Escalabilidad
-   - Manuales de Usuario y Guías de Administración
-      - Manual de Usuario
-      - Guía de Administración
-   - Procedimientos de Mantenimiento y Gestión de Recursos
-      - Procedimientos de Mantenimiento
-      - Gestión de Recursos
-      - Plan de Respuesta ante Incidentes
-   - Conclusión
-- Seguridad Informática
-   - Protección contra Amenazas
-   - Protección de Recursos del CPD
-- Plan de Recuperación del CPD
-   - Copias de seguridad
-   - Almacenamiento Seguro de copias
-   - Restauración Rápida
-   - Mecanismos Redundantes
-
-
-**0
 SELECCIÓN DE SOFTWARE
 Sistema Operativo:** Windows Server 2022 Datacenter para funcionalidades avanzadas de
 virtualización y gestión de redes.
@@ -1225,7 +1212,7 @@ del sistema, facilitando la gestión y optimización de recursos.
 
 ### Protección contra Amenazas
 
-```
+
 ● Firewalls: Implementaremos cortafuegos que controlen el tráfico de la red que entra
 y sale, bloqueando así mismo, accesos no autorizados y previniendo ataques
 externos, como ataques DDoS que nos in-utilizarían los servicios o algún malware
@@ -1238,10 +1225,10 @@ adelantándose para evitar cualquier mal mayor.
 garantizar que solamente el personal autorizado pueda acceder a los recursos del
 CPD. Incluiremos la autenticación de dos factores y asignación de permisos basados
 en roles.
-```
+
 ### Protección de Recursos del CPD
 
-```
+
 ● Confidencialidad: Aseguramos que la información sensible solo será accesible para
 aquellos con los permisos adecuados. Esto se realizará mediante cifrado de datos y
 gestión de claves de seguridad.
@@ -1251,12 +1238,12 @@ de archivos y el uso de firmas digitales.
 ● Disponibilidad: Garantizamos que los sistemas y datos estén disponibles las 24h
 del día, los 365 días del año; implementando sistemas redundantes y planes de
 contingencia.
-```
+
 ## Plan de Recuperación del CPD
 
 ### Copias de seguridad
 
-```
+
 ● Completa: Realizaremos copias de seguridad completas de todos los datos y
 sistemas en intervalos regulares. Este tipo de copia incluye todo el contenido
 necesario para restaurar el sistema en caso de una falla total.
@@ -1264,26 +1251,24 @@ necesario para restaurar el sistema en caso de una falla total.
 incluyen los cambios realizados en base a las copias completas o incrementales
 anteriores. Este tipo de copia ahorra tiempo en caso de recuperación de datos y
 ahorra espacio de almacenamiento necesario.
-```
 
-```
 ● Diferencial: También realizaremos copias de seguridad diferenciales que incluyen
 todos los cambios realizados desde la última copia completa, esto proporciona
 equilibrio entre el tiempo de restauración y el espacio de almacenamiento.
-```
+
 ### Almacenamiento Seguro de copias
 
-```
+
 ● Local: Las copias de seguridad se almacenarán de manera local en dispositivos
 instalados dentro del CPD con acceso restringido y medidas de protección física
 muy estrictas.
 ● Nube: Utilizaremos servicios de almacenamiento en la nube para garantizar la
 redundancia y disponibilidad de las copias de seguridad en caso de desastres
 locales.
-```
+
 ### Restauración Rápida
 
-```
+
 ● Procedimiento de restauración: Estableceremos procedimientos detallados para la
 restauración rápida de sistemas y datos. Los procedimientos incluirán pasos
 específicos para recuperar sistemas críticos y datos esenciales e importantes en el
@@ -1291,10 +1276,10 @@ menor tiempo posible.
 ● Pruebas regulares: Realizaremos pruebas regulares para garantizar la eficacia del
 plan de recuperación. Incluiremos en las pruebas, simulacros de desastres y
 ejercicios de restauración para identificar y corregir posibles fallos.
-```
+
 ### Mecanismos Redundantes
 
-```
+
 ● Sistemas RAID: Implementaremos sistemas RAID para asegurar redundancia de
 datos y mejorar la disponibilidad del sistema.
 ● Sistemas SALS: Utilizaremos sistemas de almacenamiento conectado en red (SAN)
@@ -1303,7 +1288,7 @@ escalabilidad del almacenamiento.
 ● Documentación de protocolos: Documentamos los protocolos a seguir en caso de
 desastres, incluyendo roles y responsabilidades del personal, procedimientos y
 planes de contingencia.
-```
+
 
 
 
