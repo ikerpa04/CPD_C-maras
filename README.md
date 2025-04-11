@@ -120,7 +120,7 @@ para futuras necesidades.
 - Sala de energía y climatización: Ubicación de UPS, generadores y
           sistemas de aire acondicionado.
           
-       - Zonas de acceso restringido y seguridad.
+- Zonas de acceso restringido y seguridad.
 
 
 
