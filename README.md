@@ -1616,8 +1616,6 @@ sido nombrada anteriormente.
 Cuando nos hayamos logueado, creamos 3 discos virtuales para después poder hacer un
 RAID
 
-![29](https://github.com/ikerpa04/CPD_Camaras/blob/6d3804c0797a6ff976e470a9b4e47832f975ad98/Imagenes/sprint3/Captura%20de%20pantalla%202025-04-03%20113108.png)
-
 
 A continuación descargamos la iso de la Raspberry, la cual pondremos dentro del TrueNas.
 ***Cuando iniciamos la instalación, la máquina nos da error y no hemos podido seguir con el proceso***
