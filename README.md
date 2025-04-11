@@ -298,6 +298,56 @@ El resultado total del número de cámaras a las que le tenemos que poner tarjet
 se encuentran aquí, donde cada número al lado de el nombre de cada población es el
 identificador de cada una de ellas.
 
+### Costes de las tarjetas SIM:
+
+**Estudio sobre las distintas compañias de telefonia:**
+
+_ChipIOT_
+
+ChipIOT proporciona tarjetas SIM multioperador y eSIM con cobertura global para
+dispositivos IoT y M2M. Ofrecen planes personalizados y destacan por tener precios
+hasta un 50% más económicos, para obtener una cotización específica para un plan de
+100 GB.
+
+_hings Mobile_
+
+Things Mobile es un operador global dedicado a dispositivos IoT y M2M, con cobertura
+en más de 165 países y más de 350 operadores de roaming. Ofrecen tarifas flexibles
+según el consumo, sin costes iniciales ni suscripciones. Por ejemplo, tienen una tarifa
+de 0,10 $/MB en los principales países, lo que equivaldría a aproximadamente 10 $ por
+GB. Para un plan de 100 GB, esto representaría alrededor de 1.000 $.
+
+_emnify_
+
+emnify ofrece tarjetas SIM IoT con conectividad global y una plataforma de gestión
+avanzada. El precio de sus tarjetas SIM comienza desde menos de 2 € para una tarjeta
+SIM de grado comercial y menos de 3 € para una tarjeta SIM IoT de grado industrial,
+dependiendo del volumen del pedido.
+
+_Movistar_
+
+Internet móvil y 5G+
+Navega de forma ilimitada a 2 Mb una vez alcanzados los 20 GB a velocidad 5G+.
+Llamadas y SMS
+Llamadas ilimitadas a fijos y móviles. SMS a 30 cts.
+Roaming: habla y navega fuera de España
+25GB para navegar y llamadas ilimitadas en la UE, Reino Unido, Noruega, Islandia o
+Liechtenstein. Consulta las tarifas de Roaming de cualquier país.
+
+**Nuestra elección:**
+
+Basándonos en el estudio que hemos realizado, hemos pensado, que la mejor opción
+es comprar las tarjetas SIM a XENET, ya que es una compañía de la Comunidad
+Valenciana que ofrece servicios de telecomunicaciones simples, con la máxima calidad
+posible y a un precio netamente inferior al de mercado.
+
+Tienen un plan de Xenet-100 Llamadas ilimitadas, establecimiento incluido y 100 Gb de
+datos al mes. Por 5,90€/mes IVA incluído.
+
+Puedes seleccionar qué empresa prefieres para tu cobertura, si Orange con cobertura
+5G con Gigas acumulables o Vodafone con solo cobertura 5G. Nosotros elegimos con
+Orange ya que tienen una masa más amplia de cobertura.
+
 
 ## Almacenamiento
 
@@ -392,7 +442,7 @@ fallo de hasta 2 discos sin perder datos ya que cuenta con doble paridad
        ○ Esto permitiría cubrir hasta 10 años si fuera necesario.
 
 
-1. **Coste por GB más eficiente** :
+**1. Coste por GB más eficiente:**
     Los discos de mayor capacidad (como los de 8TB) tienden a ser más económicos por
     GB comparado con discos más pequeños. Es decir, el costo por terabyte suele ser
     menor en discos de 8TB, lo que resulta en un ahorro a largo plazo.
@@ -468,44 +518,50 @@ fallo de hasta 2 discos sin perder datos ya que cuenta con doble paridad
 
 ## Especificaciones Técnicas
 
-**1. Materiales y acabados**
-    ● Suelos: Antiestáticos, elevados y de fácil mantenimiento.
-    ● Paredes: Revestimientos ignífugos y aislantes acústicos.
-    ● Techos: Paneles desmontables para mantenimiento.
+> 1. Materiales y acabados
+
+   - Suelos: Antiestáticos, elevados y de fácil mantenimiento.
+   
+   - Paredes: Revestimientos ignífugos y aislantes acústicos.
+   
+   - Techos: Paneles desmontables para mantenimiento.
 
 ## Información Gráfica y Simbólica
 
-**1. Simbología**
-    ● Identificación de puertas, ventanas, racks, bandejas, tomas eléctricas, y otros
-       elementos relevantes.
-**2. Norte**
-    ● Indicación precisa de la orientación para facilitar la ubicación del proyecto.
-**3. Texturas y colores**
-    ● Representación gráfica de materiales:
-       ○ Concreto: Textura gris moteada.
-       ○ Vidrio: Transparente con bordes azules.
-       ○ Madera: Textura marrón claro para detalles no críticos.
+> 1. Simbología
 
+- Identificación de puertas, ventanas, racks, bandejas, tomas eléctricas, y otros elementos relevantes.
+
+> 2. Norte
+    
+- Indicación precisa de la orientación para facilitar la ubicación del proyecto.
+
+> 3. Texturas y colores
+
+- Representación gráfica de materiales:
+
+     ○ Concreto: Textura gris moteada.
+
+     ○ Vidrio: Transparente con bordes azules.
+
+     ○ Madera: Textura marrón claro para detalles no críticos.
+
+---
 
 ## Ubicación de las cámaras de control de tráfico
-
-## tráfico
 
 ### Entradas y salidas de la población
 
 ● **Por qué:** Estas zonas suelen ser puntos donde se concentra mucho tráfico,
 especialmente en horas punta.
+
 ● **Beneficios:** Permiten monitorear el flujo de vehículos, detectar congestión y
 supervisar el acceso a la población.
 En resumen, las cámaras deben instalarse donde puedan generar el mayor impacto
 positivo en la seguridad y eficiencia del tráfico, ubicandolas en las entradas/salidas de
 todos los municipios sin excepción.
 
-### Mapa de cada población con sus respectivas
-
-### cámaras:
-
-### - - Incremento de Cámaras deseado
+---
 
 ### - Cámaras puestas por la población
 
@@ -515,7 +571,24 @@ Pincha aquí:
 
 [Ver en Github](https://github.com/ikerpa04/CPD_Camaras/blob/334e08f519b3217d6a6ce38285651be4522f5799/Contacto%20de%20c%C3%A1maras%20-%20C%C3%A1maras.csv)
 
-### 📊 Tabla de Contacto de Cámaras
+### Tabla de Contacto de Cámaras con su respectivo precio
+
+Para el coste aproximado de las cámaras, hemos realizado una tabla en la que
+realizamos un análisis de las poblaciones de la Safor, introducimos las cámaras que
+necesitamos y los precios de cada cámara. Esta tabla es una aproximación al coste real
+del proyecto.
+
+> Columnas de la tabla:
+
+- **Municipios** : Nombres de los municipios a instalar
+
+- **Cámaras** : Número de cámaras que hay en los municipios ya instaladas
+
+- **Cámaras que queremos poner** : Número de cámaras que queremos tener en cada municipio
+
+- **Camaras a poner** : Cámaras que hay que poner restando el número de cámaras ya existentes
+
+- **Precio** : Precio total de las cámaras de cada municipio
 
 | Municipios                   | Camarás   | Cámaras que queremos poner   | Camaras A Poner   | Precio total   |
 |:-----------------------------|:----------|:-----------------------------|:------------------|:---------------|
@@ -568,17 +641,20 @@ el procesamiento de imágenes, se requieren entre 5 y 10 servidores, dependiendo
 volumen de datos. El coste de los servidores adecuados para esta tarea varían según
 las especificaciones, pero generalmente oscila entre 2.000 y 5.000 euros por unidad.
 Por lo tanto, la inversión total en servidores estaría entre 10.000 y 50.000 euros.
+
 **2. Almacenamiento en red (NAS/SAN):** Para garantizar redundancia y capacidad
 suficiente, se recomiendan de 2 a 4 unidades de almacenamiento en red. Los
 dispositivos NAS de calidad, tienen un precio aproximado de 460 euros.
 Las soluciones SAN suelen ser más costosas debido a su rendimiento y escalabilidad
 superiores. El coste total para el almacenamiento en red puede variar entre 1.000 y
 10.000 euros, dependiendo de la capacidad y tecnología seleccionada.
+
 **3. Equipos de red (switches, routers, firewalls):** Para asegurar una conectividad
 robusta y segura, se requieren entre 2 y 3 dispositivos de red. El coste de switches y
 routers de calidad empresarial suele oscilar entre 500 y 1.500 euros por unidad,
 mientras que los firewalls pueden costar entre 1.000 y 3.000 euros. En total, la inversión
 en equipos de red estaría entre 2.000 y 9.000 euros.
+
 **4. Racks y accesorios:** Considerando que cada rack estándar tiene una capacidad de
 42U y que se recomienda utilizar entre el 70% y 80% de su capacidad para una
 ventilación y cableado óptimos, se necesitan aproximadamente 3 racks para alojar todo
@@ -587,104 +663,55 @@ suele estar entre 800 y 1.500 euros. Además, es importante considerar accesorio
 como unidades de distribución de energía (PDUs) y sistemas de ventilación, que
 pueden sumar entre 500 y 1.000 euros adicionales por rack. En total, la inversión en
 racks y accesorios estaría entre 3.900 y 7.500 euros.
-Resumen de costes estimados:
-    ● Servidores de procesamiento de imágenes (ALPR): 10.000 - 50.000 euros
-    ● Almacenamiento en red (NAS/SAN): 1.000 - 10.000 euros
-    ● Equipos de red (switches, routers, firewalls): 2.000 - 9.000 euros
-    ● Racks y accesorios: 3.900 - 7.500 euros
-    ● Total estimado: 16.900 - 76.500 euros
 
+> Resumen de costes estimados:
+    - Servidores de procesamiento de imágenes (ALPR): 10.000 - 50.000 euros
+    - Almacenamiento en red (NAS/SAN): 1.000 - 10.000 euros
+    - Equipos de red (switches, routers, firewalls): 2.000 - 9.000 euros
+    - Racks y accesorios: 3.900 - 7.500 euros
+    - Total estimado: 16.900 - 76.500 euros
 
-### Costes Aproximados de las cámaras:
-
-Para el coste aproximado de las cámaras, hemos realizado una tabla en la que
-realizamos un análisis de las poblaciones de la Safor, introducimos las cámaras que
-necesitamos y los precios de cada cámara. Esta tabla es una aproximación al coste real
-del proyecto. Estos datos pueden ser cambiados conforme avance el proyecto.
-Clica aquí:
-Columnas de la tabla:
-● **Municipios** : Nombres de los municipios a instalar
-● **Cámaras** : Número de cámaras que hay en los municipios ya instaladas
-● **Cámaras que queremos poner** : Número de cámaras que queremos tener en
-cada municipio
-● **Incremento de Cámaras deseado** : Cámaras que hay que poner restando el
-número de cámaras ya existentes
-● **Precio** : Precio total de las cámaras de cada municipio
-
-### Costes de las tarjetas SIM:
-
-**Estudio sobre las distintas compañias de telefonia:**
-_ChipIOT_
-ChipIOT proporciona tarjetas SIM multioperador y eSIM con cobertura global para
-dispositivos IoT y M2M. Ofrecen planes personalizados y destacan por tener precios
-hasta un 50% más económicos, para obtener una cotización específica para un plan de
-100 GB.
-_hings Mobile_
-Things Mobile es un operador global dedicado a dispositivos IoT y M2M, con cobertura
-en más de 165 países y más de 350 operadores de roaming. Ofrecen tarifas flexibles
-según el consumo, sin costes iniciales ni suscripciones. Por ejemplo, tienen una tarifa
-de 0,10 $/MB en los principales países, lo que equivaldría a aproximadamente 10 $ por
-GB. Para un plan de 100 GB, esto representaría alrededor de 1.000 $.
-_emnify_
-emnify ofrece tarjetas SIM IoT con conectividad global y una plataforma de gestión
-avanzada. El precio de sus tarjetas SIM comienza desde menos de 2 € para una tarjeta
-SIM de grado comercial y menos de 3 € para una tarjeta SIM IoT de grado industrial,
-dependiendo del volumen del pedido.
-
-
-_Movistar_
-Internet móvil y 5G+
-Navega de forma ilimitada a 2 Mb una vez alcanzados los 20 GB a velocidad 5G+.
-Llamadas y SMS
-Llamadas ilimitadas a fijos y móviles. SMS a 30 cts.
-Roaming: habla y navega fuera de España
-25GB para navegar y llamadas ilimitadas en la UE, Reino Unido, Noruega, Islandia o
-Liechtenstein. Consulta las tarifas de Roaming de cualquier país.
-**Nuestra elección:**
-Basándonos en el estudio que hemos realizado, hemos pensado, que la mejor opción
-es comprar las tarjetas SIM a XENET, ya que es una compañía de la Comunidad
-Valenciana que ofrece servicios de telecomunicaciones simples, con la máxima calidad
-posible y a un precio netamente inferior al de mercado.
-Tienen un plan de Xenet-100 Llamadas ilimitadas, establecimiento incluido y 100 Gb de
-datos al mes. Por 5,90€/mes IVA incluído.
-Puedes seleccionar qué empresa prefieres para tu cobertura, si Orange con cobertura
-5G con Gigas acumulables o Vodafone con solo cobertura 5G. Nosotros elegimos con
-Orange ya que tienen una masa más amplia de cobertura.
-
-
-**Evaluación de riesgos**
+---
 
 ## Evaluación de riesgos
 
 En nuestro CPD, podemos encontrar diversos riesgos a nivel de seguridad informática,
 ya sean ciberataques, fugas de datos, etc. A continuación veremos que tipos de riesgos
 podemos encontrar para valorar el nivel de seguridad que necesitaremos llevar a cabo.
+
 **_Ciberataques:_**
-**● Ataques DDOS:** Estos ataques sobrecargan los servidores y los dejan
+
+**- Ataques DDOS:** Estos ataques sobrecargan los servidores y los dejan
 inoperativos por un tiempo indeterminado
-**● Acceso no autorizado:** El acceso no autorizado aprovechando vulnerabilidades
+
+**- Acceso no autorizado:** El acceso no autorizado aprovechando vulnerabilidades
 pueden hacernos perder muchos datos o fallos en el sistema.
-**● Ransomware:** Un virus el cual los datos los encripta y nos pedirá un “rescate”,
+
+**- Ransomware:** Un virus el cual los datos los encripta y nos pedirá un “rescate”,
 esto puede ser peligroso al poder robar datos personales de miles de
 ciudadanos.
-**● Man in the middle:** Entran al CPD sin darnos cuenta e interceptan los datos que
+
+**- Man in the middle:** Entran al CPD sin darnos cuenta e interceptan los datos que
 recibimos o enviamos, esto perjudica la seguridad e integridad de los datos.
-**_Fugas de datos:_**
-**● Robo de datos:** Al acceder un “hacker” al sistema pueden robar datos e
+
+**- Fugas de datos**
+
+**- Robo de datos:** Al acceder un “hacker” al sistema pueden robar datos e
 información muy importante como pueden ser datos de los vehículos,
 ciudadanos, etc.
-**● Dark web:** Los datos robados pueden ser vendidos o publicados en la Dark
+
+**- Dark web:** Los datos robados pueden ser vendidos o publicados en la Dark
 web, es decir el mercado negro
 
 ### Protección deficiente:
 
 
-● Vulnerabilidades: Podemos encontrar vulnerabilidades en el sistema debido a
+- **Vulnerabilidades:** Podemos encontrar vulnerabilidades en el sistema debido a
 parches de seguridad deficiente o con fallos, también en la falta de
 actualizaciones del sistema.
-● Contraseñas vulnerables: Debido a contraseñas vulnerables o por compartir la
-contraseña, pueden acceder quien no debe al sistema y producir fallos.
 
+- **Contraseñas vulnerables:** Debido a contraseñas vulnerables o por compartir la
+contraseña, pueden acceder quien no debe al sistema y producir fallos.
 
 ## RIESGOS OPERATIVOS
 
