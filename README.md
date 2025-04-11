@@ -772,8 +772,10 @@ pueden quemar o dañar los dispositivos
 
 ● Configuración: Debido a errores de configuración pueden haber errores en los
 sistemas.
+
 ● Eliminación datos: Debido a errores humanos, pueden eliminar datos
 importantes o archivos de configuración.
+
 ● Mala gestión: Una mala gestión de las actualizaciones o de los mantenimientos
 necesarios puede provocar fallas en el CPD.
 
@@ -820,6 +822,7 @@ Estos riesgos pueden acarrear diferentes problemas con difícil solución a cort
 
 ● Intrusos: Pueden acceder al CPD, personal no autorizado o intrusos que
 puedan robar o dañar los datos almacenados en el mismo.
+
 ● Robo: El robo de dispositivos físicos que contengan datos sensibles pueden
 acarrear problemas legales o del correcto funcionamiento del CPD.
 
@@ -993,9 +996,11 @@ otra vez daños o pérdidas de tiempo de reparación.
 
 ● Políticas: Estableciendo políticas claras de privacidad y protección de datos,
 cumpliento con el RGPD y normativas locales, evitaremos problemas legales.
+
 ● Anonimizar: Hay que anonimizar todos los datos siempre que sean posibles
 porque podremos tener problemas legales con los ciudadanos o autoridades
 pertinentes.
+
 ● Auditorías: Tendremos que contratar auditorías externas para verificar
 constantemente el cumplimiento legal y técnico del CPD.
 
@@ -1003,6 +1008,7 @@ constantemente el cumplimiento legal y técnico del CPD.
 
 ● Informar: Deberemos informar a las autoridades y afectados sobre fugas de
 datos en un plazo de 72 horas, según el RGPD.
+
 ● Análisis: Debemos realizar un análisis de impacto para entender la magnitud
 del incidente.
 
@@ -1010,6 +1016,7 @@ del incidente.
 
 **● Políticas:** Deberemos ajustar las políticas y sistemas para evitar
 vulnerabilidades futuras.
+
 **● Capacitación:** Deberemos capacitar nuevamente al personal en mejores
 prácticas de privacidad y seguridad.
 
@@ -1061,22 +1068,10 @@ La zona escogida para instalar el CPD, que es el **_Polígono Industrial Benieto
 sitio alejado de zona del mar evitando inundaciones por esa parte pero en caso de
 riesgo meteorológico, pueden haber lluvias intensas que puedan provocar
 inundaciones.
+
 Según el siguiente estudio, observamos que en un periodo de 500 años, la zona de
 Gandia, donde se ubica el CPD, sería inundable. A corto plazo no se ve viable una
 inundación.
-
-A continuación, observaremos el riesgo de inundación en 10, 100 y 500 años.
-Observaremos pocos cambios que puedan afectar a corto plazo, en cambio a largo
-plazo, observamos que hay pequeños riesgos de inundaciones pero para cuando llegue
-la fecha, se pueden hacer reformas para evitarlo o cambiar la ubicación.
-En esta captura, observamos un incremento de riesgo dentro de **10 años** en el río
-Serpis en caso de inundación.
-
-En esta captura, observamos el riesgo dentro de **100 años**. Volvemos a ver un
-incremento en el riesgo del río Serpis pero no tan considerable que llegue al CPD.
-En esta última captura, de un riesgo dentro de **500 años**. Observamos un riesgo
-considerable de inundaciones ya que el desbordamiento del río Serpis afecta a parte del
-centro histórico de Gandia y llega al Polígono Industrial Benieto.
 
 
 > **_Simulacros_**
@@ -1405,9 +1400,11 @@ en roles.
 ● Confidencialidad: Aseguramos que la información sensible solo será accesible para
 aquellos con los permisos adecuados. Esto se realizará mediante cifrado de datos y
 gestión de claves de seguridad.
+
 ● Integridad: Implementaremos controles para asegurar que los datos almacenados
 no sean adulterados de manera no autorizada. Incluye la verificación de integridad
 de archivos y el uso de firmas digitales.
+
 ● Disponibilidad: Garantizamos que los sistemas y datos estén disponibles las 24h
 del día, los 365 días del año; implementando sistemas redundantes y planes de
 contingencia.
@@ -1465,19 +1462,7 @@ desastres, incluyendo roles y responsabilidades del personal, procedimientos y
 planes de contingencia.
 
 
-
-
 # Simulación de instalación del CPD
-
-## CPD CÁMARAS DE TRÁFICO
-
-## Participantes:
-
-```
-Iker Patiño Alvarez
-Dani Ibañez Marti
-Francisco Sanchez Garcia
-```
 
 ## Configuración del Router
 
