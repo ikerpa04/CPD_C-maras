@@ -1101,22 +1101,26 @@ responsable de la empresa.
 
 *Protección contra Amenazas*
 
-**● Firewalls:** Implementaremos cortafuegos que controlen el tráfico de la red que
+
+** Firewalls:** Implementaremos cortafuegos que controlen el tráfico de la red que
 entra y sale, bloqueando así mismo, accesos no autorizados y previniendo
 ataques externos, como ataques DDoS que nos in-utilizarían los servicios o
 algún malware proveniente de páginas no seguras.
 
-**● Detección de intrusos:** Instalaremos sistemas de detección de intrusos que
+
+** Detección de intrusos:** Instalaremos sistemas de detección de intrusos que
 monitoreen la red en busca de actividades maliciosas o sospechosas. Este
 sistema alertará al equipo encargado con la seguridad en caso de un ataque y
 así evitando y adelantándose para evitar cualquier mal mayor.
 
-**● Políticas de acceso:** Estableceremos políticas de acceso seguras y estrictas
+
+** Políticas de acceso:** Estableceremos políticas de acceso seguras y estrictas
 para garantizar que solamente el personal autorizado pueda acceder a los
 recursos del CPD. Incluiremos la autenticación de dos factores y asignación de
 permisos basados en roles.
 
-**● Confidencialidad:** Aseguramos que la información sensible solo será accesible
+
+** Confidencialidad:** Aseguramos que la información sensible solo será accesible
 para aquellos con los permisos adecuados. Esto se realizará mediante cifrado
 de datos y gestión de claves de seguridad.
 
